@@ -11,7 +11,7 @@ necessary to preserve your brand's style.
 small tweaks to Material for MkDocs, you can just add CSS and JavaScript files to
 the `docs` directory.
 
-  [MkDocs]: https://www.mkdocs.org
+[MkDocs]: https://www.mkdocs.org
 
 ### Additional CSS
 
@@ -19,7 +19,7 @@ If you want to tweak some colors or change the spacing of certain elements,
 you can do this in a separate style sheet. The easiest way is by creating a
 new style sheet file in the `docs` directory:
 
-``` { .sh .no-copy }
+```{ .sh .no-copy }
 .
 ├─ docs/
 │  └─ stylesheets/
@@ -29,7 +29,7 @@ new style sheet file in the `docs` directory:
 
 Then, add the following lines to `mkdocs.yml`:
 
-``` yaml
+```yaml
 extra_css:
   - stylesheets/extra.css
 ```
@@ -39,7 +39,7 @@ extra_css:
 If you want to integrate another syntax highlighter or add some custom logic to
 your theme, create a new JavaScript file in the `docs` directory:
 
-``` { .sh .no-copy }
+```{ .sh .no-copy }
 .
 ├─ docs/
 │  └─ javascripts/
@@ -49,7 +49,7 @@ your theme, create a new JavaScript file in the `docs` directory:
 
 Then, add the following lines to `mkdocs.yml`:
 
-``` yaml
+```yaml
 extra_javascript:
   - javascripts/extra.js
 ```
@@ -74,8 +74,8 @@ extra_javascript:
     `document$` is an [RxJS Observable] and you can call the `subscribe()`
     method any number of times to attach different functionality.
 
-  [instant loading]: setup/setting-up-navigation.md/#instant-loading
-  [RxJS Observable]: https://rxjs.dev/api/index/class/Observable
+[instant loading]: setup/setting-up-navigation.md/#instant-loading
+[RxJS Observable]: https://rxjs.dev/api/index/class/Observable
 
 ## Extending the theme
 
@@ -84,7 +84,7 @@ extend the theme. MkDocs supports [theme extension], an easy way to override
 parts of Material for MkDocs without forking from git. This ensures that you
 can update to the latest version more easily.
 
-  [theme extension]: https://www.mkdocs.org/user-guide/customizing-your-theme/#using-the-theme-custom_dir
+[theme extension]: https://www.mkdocs.org/user-guide/customizing-your-theme/#using-the-theme-custom_dir
 
 ### Setup and theme structure
 
@@ -92,7 +92,7 @@ Enable Material for MkDocs as usual in `mkdocs.yml`, and create a new folder
 for `overrides` which you then reference using the [`custom_dir`][custom_dir]
 setting:
 
-``` yaml
+```yaml
 theme:
   name: material
   custom_dir: overrides
@@ -110,7 +110,7 @@ of the original theme, as any file in the `overrides` directory will replace the
 file with the same name which is part of the original theme. Besides, further
 assets may also be put in the `overrides` directory:
 
-``` { .sh .no-copy }
+```{ .sh .no-copy }
 .
 ├─ .icons/                             # Bundled icon sets
 ├─ assets/
@@ -159,8 +159,8 @@ assets may also be put in the `overrides` directory:
 └─ main.html                           # Default page
 ```
 
-  [custom_dir]: https://www.mkdocs.org/user-guide/configuration/#custom_dir
-  [name]: https://www.mkdocs.org/user-guide/configuration/#name
+[custom_dir]: https://www.mkdocs.org/user-guide/configuration/#custom_dir
+[name]: https://www.mkdocs.org/user-guide/configuration/#name
 
 ### Overriding partials
 
@@ -169,7 +169,7 @@ and location in the `overrides` directory. For example, to replace the original
 `footer.html` partial, create a new `footer.html` partial in the `overrides`
 directory:
 
-``` { .sh .no-copy }
+```{ .sh .no-copy }
 .
 ├─ overrides/
 │  └─ partials/
@@ -187,7 +187,7 @@ template blocks, which are defined inside the templates and wrap specific
 features. In order to set up block overrides, create a `main.html` file inside
 the `overrides` directory:
 
-``` { .sh .no-copy }
+```{ .sh .no-copy }
 .
 ├─ overrides/
 │  └─ main.html
@@ -196,51 +196,47 @@ the `overrides` directory:
 
 Then, e.g. to override the site title, add the following lines to `main.html`:
 
-``` html
-{% extends "base.html" %}
-
+```html
 {% block htmltitle %}
-  <title>Lorem ipsum dolor sit amet</title>
+<title>Lorem ipsum dolor sit amet</title>
 {% endblock %}
 ```
 
-If you intend to __add__ something to a block rather than to replace it
+If you intend to **add** something to a block rather than to replace it
 altogether with new content, use `{{ super() }}` inside the block to include the
 original block content. This is particularly useful when adding third-party
 scripts to your docs, e.g.
 
-``` html
-{% extends "base.html" %}
-
-{% block scripts %}
-  <!-- Add scripts that need to run before here -->
-  {{ super() }}
-  <!-- Add scripts that need to run afterwards here -->
+```html
+{% extends "base.html" %} {% block scripts %}
+<!-- Add scripts that need to run before here -->
+{{ super() }}
+<!-- Add scripts that need to run afterwards here -->
 {% endblock %}
 ```
 
 The following template blocks are provided by the theme:
 
-| Block name        | Purpose                                         |
-| :---------------- | :---------------------------------------------- |
-| `analytics`       | Wraps the Google Analytics integration          |
-| `announce`        | Wraps the announcement bar                      |
-| `config`          | Wraps the JavaScript application config         |
-| `container`       | Wraps the main content container                |
-| `content`         | Wraps the main content                          |
-| `extrahead`       | Empty block to add custom meta tags             |
-| `fonts`           | Wraps the font definitions                      |
-| `footer`          | Wraps the footer with navigation and copyright  |
-| `header`          | Wraps the fixed header bar                      |
-| `hero`            | Wraps the hero teaser (if available)            |
-| `htmltitle`       | Wraps the `<title>` tag                         |
-| `libs`            | Wraps the JavaScript libraries (header)         |
-| `outdated`        | Wraps the version warning                       |
-| `scripts`         | Wraps the JavaScript application (footer)       |
-| `site_meta`       | Wraps the meta tags in the document head        |
-| `site_nav`        | Wraps the site navigation and table of contents |
-| `styles`          | Wraps the style sheets (also extra sources)     |
-| `tabs`            | Wraps the tabs navigation (if available)        |
+| Block name  | Purpose                                         |
+| :---------- | :---------------------------------------------- |
+| `analytics` | Wraps the Google Analytics integration          |
+| `announce`  | Wraps the announcement bar                      |
+| `config`    | Wraps the JavaScript application config         |
+| `container` | Wraps the main content container                |
+| `content`   | Wraps the main content                          |
+| `extrahead` | Empty block to add custom meta tags             |
+| `fonts`     | Wraps the font definitions                      |
+| `footer`    | Wraps the footer with navigation and copyright  |
+| `header`    | Wraps the fixed header bar                      |
+| `hero`      | Wraps the hero teaser (if available)            |
+| `htmltitle` | Wraps the `<title>` tag                         |
+| `libs`      | Wraps the JavaScript libraries (header)         |
+| `outdated`  | Wraps the version warning                       |
+| `scripts`   | Wraps the JavaScript application (footer)       |
+| `site_meta` | Wraps the meta tags in the document head        |
+| `site_nav`  | Wraps the site navigation and table of contents |
+| `styles`    | Wraps the style sheets (also extra sources)     |
+| `tabs`      | Wraps the tabs navigation (if available)        |
 
 ## Theme development
 
@@ -249,16 +245,16 @@ uses a lean, custom build process to put everything together.[^1] If you want
 to make more fundamental changes, it may be necessary to make the adjustments
 directly in the source of the theme and recompile it.
 
-  [^1]:
+[^1]:
     Prior to <!-- md:version 7.0.0 --> the build was based on Webpack, resulting
     in occasional broken builds due to incompatibilities with loaders and
     plugins. Therefore, we decided to swap Webpack for a leaner solution which
     is now based on [RxJS] as the application itself. This allowed for the
     pruning of more than 500 dependencies (~30% less).
 
-  [TypeScript]: https://www.typescriptlang.org/
-  [RxJS]: https://github.com/ReactiveX/rxjs
-  [SASS]: https://sass-lang.com
+[TypeScript]: https://www.typescriptlang.org/
+[RxJS]: https://github.com/ReactiveX/rxjs
+[SASS]: https://sass-lang.com
 
 ### Environment setup
 
@@ -266,7 +262,7 @@ First, clone the repository for the edition you want to work on. If
 you want to clone the Insiders repository, you need to become a
 sponsor first to gain access.
 
-  [Insiders]: insiders/index.md
+[Insiders]: insiders/index.md
 
 === "Material for MkDocs"
 
@@ -316,8 +312,8 @@ source venv/bin/activate
     export PIP_REQUIRE_VIRTUALENV=true
     ```
 
-  [venv]: https://docs.python.org/3/library/venv.html
-  [venv-activate]: https://docs.python.org/3/library/venv.html#how-venvs-work
+[venv]: https://docs.python.org/3/library/venv.html
+[venv-activate]: https://docs.python.org/3/library/venv.html#how-venvs-work
 
 Then, install all Python dependencies:
 
@@ -340,7 +336,6 @@ Then, install all Python dependencies:
 
     [image processing]: plugins/requirements/image-processing.md
 
-
 Finally, install the [Node.js] LTS version into the Python virtual environment
 and install all Node.js dependencies:
 
@@ -349,7 +344,7 @@ nodeenv -p -n lts
 npm install
 ```
 
-  [Node.js]: https://nodejs.org
+[Node.js]: https://nodejs.org
 
 ### Development mode
 
@@ -374,13 +369,13 @@ very documentation in front of you.
     directory are automatically generated from the `src` directory and will be
     overwritten when the theme is built.
 
-  [live preview]: http://localhost:8000
+[live preview]: http://localhost:8000
 
 ### Building the theme
 
 When you're finished making your changes, you can build the theme by invoking:
 
-``` sh
+```sh
 npm run build # (1)!
 ```
 
