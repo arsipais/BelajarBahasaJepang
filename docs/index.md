@@ -2,6 +2,8 @@
 
 Catatan pribadi & sumber belajar bahasa Jepang. Dibuat untuk teman-teman seperjuangan.
 
+## Tentang Saya
+
 Halo, saya Ais! Seorang pelajar yang lagi suka-sukanya sama bahasa Jepang. Website ini adalah cara saya merapikan semua materi yang saya temukan, biar nggak hilang dan sekalian bisa berbagi. Semoga bermanfaat, ya!
 
 ---
@@ -24,17 +26,14 @@ Panduan langkah-demi-langkah untuk mengatur _tools_ atau aplikasi yang membantu 
 
 ### [🌐 Sumber Daya Lain](./sumber-daya/)
 
-Koleksi link kamus, channel YouTube, dan website favorit yang sangat membantu dalam perjalanan belajar.
-
----
+## Koleksi link kamus, channel YouTube, dan website favorit yang sangat membantu dalam perjalanan belajar.
 
 ## 👋 Terhubung & Beri Dukungan
 
 Punya pertanyaan, saran, atau sekadar ingin menyapa? Jangan ragu!
 
 - **Kontak Saya**: Kamu bisa menghubungi saya melalui [Email](mailto:emailkamu@example.com) atau gabung [server Discord](https://discord.gg/nY9FdajndM).
-- **Dukung Saya**: Jika website ini membantumu, kamu bisa mendukung saya dengan mentraktir secangkir kopi virtual. Setiap dukungan sangat berarti untuk menjaga website ini tetap hidup dan terus berkembang.
-  - **[Saweria](https://saweria.co/Philia)**
+- **Dukung Saya**: Jika website ini membantumu, kamu bisa mendukung saya di **[Saweria](https://saweria.co/Philia)**. Setiap dukungan sangat berarti untuk menjaga website ini tetap hidup dan terus berkembang.
 
 ---
 
