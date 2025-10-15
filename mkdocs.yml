@@ -1,5 +1,14 @@
 site_name: My MkDocs Material Documentation
 site_url: https://sitename.example
+
+nav:
+  - "Beranda": "index.md"
+  - "Jepang":
+      - "Grammar": "Bahasa/Jepang/Grammar/index.md"
+      - "Cure Dolly": "Bahasa/Jepang/Cure Dolly/index.md"
+      - "Minna No Nihongo":
+          - "Chapter 1": "Bahasa/Jepang/Minna No Nihongo/Chapter 1.md"
+      - "Yokubi": "Bahasa/Jepang/Yokubi/index.md"
 theme:
   name: material
   font:
