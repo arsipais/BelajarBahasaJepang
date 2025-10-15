@@ -2,8 +2,7 @@
 site_name: Ais Belajar Bahasa Jepang
 site_url: https://arsipais.github.io/BelajarBahasaJepang/
 site_author: Ais
-site_description: >-
-  Ais Belajar Bahasa Jepang
+site_description: Catatan pribadi & sumber belajar bahasa Jepang.
 
 # Repository
 repo_name: arsipais/BelajarBahasaJepang
@@ -16,20 +15,29 @@ theme:
     text: Inter
     code: JetBrains Mono
   features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
     - navigation.footer
   palette:
     # Mode Gelap
     - scheme: slate
       toggle:
-        icon: material/weather-sunny
-        name: Dark mode
+        icon: material/brightness-4
+        name: Ganti ke mode terang
       primary: black
       accent: indigo
     # Mode Terang
     - scheme: default
       toggle:
-        icon: material/weather-night
-        name: Light mode
+        icon: material/brightness-7
+        name: Ganti ke mode gelap
       primary: black
       accent: indigo
 
@@ -44,7 +52,20 @@ nav:
 
 # Ekstensi Markdown
 markdown_extensions:
+  - admonition
+  - abbr
   - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -53,12 +74,16 @@ markdown_extensions:
       line_spans: __span
       pygments_lang_class: true
   - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
   - pymdownx.snippets
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
-  - admonition
-  - pymdownx.details
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
 
 # Footer
 copyright: Dibuat oleh Ais

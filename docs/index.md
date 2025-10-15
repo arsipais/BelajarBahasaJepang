@@ -13,7 +13,7 @@ Kumpulan rangkuman _bunpou_ (文法) dari level dasar hingga menengah, disajikan
 ### [🧠 Metode Belajar](./metode-belajar/)
 Berbagai strategi dan tips belajar efektif yang saya pakai, mulai dari _shadowing_ sampai _sentence mining_.
 ### [🛠️ Tutorial](./tutorial/)
-Panduan langkah-demi-langkah untuk mengatur _tools_ atau aplikasi yang membantu proses belajar, seperti Anki, Yomi-chan, dan lain-lain.
+Panduan langkah-demi-langkah untuk mengatur _tools_ atau aplikasi yang membantu proses belajar, seperti Anki, Yomitan, dan lain-lain.
 ### [🌐 Sumber Daya Lain](./sumber-daya/)
 Koleksi link kamus, channel YouTube, dan website favorit yang sangat membantu dalam perjalanan belajar.
 
@@ -22,7 +22,7 @@ Koleksi link kamus, channel YouTube, dan website favorit yang sangat membantu da
 Punya pertanyaan, saran, atau sekadar ingin menyapa? Jangan ragu!
 
 - **Kontak Saya**: Kamu bisa menghubungi saya melalui [Email](mailto:emailkamu@example.com) atau gabung [server Discord](https://discord.gg/nY9FdajndM).
-- **Dukung Saya**: Jika website ini membantumu, kamu bisa mendukung saya di [Saweria](https://saweria.co/Philia). Setiap dukungan sangat berarti untuk menjaga website ini tetap hidup dan terus berkembang.
+- **Dukung Saya**: Jika website ini membantumu, kamu bisa mendukung saya melalui [Saweria](https://saweria.co/Philia). Setiap dukungan sangat berarti untuk menjaga website ini tetap hidup dan terus berkembang.
 
 ---
 
