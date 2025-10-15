@@ -1,12 +1,8 @@
 # Informasi Proyek
-site_name: Ais Belajar Bahasa Jepang
-site_url: https://arsipais.github.io/BelajarBahasaJepang/
-site_author: Ais
+site_name: Cahaya Belajar Bahasa Jepang
+site_url: https://arsipcahaya.github.io/BelajarBahasaJepang/
+site_author: Cahaya
 site_description: Catatan pribadi & sumber belajar bahasa Jepang.
-
-# Repository
-repo_name: Belajar Bahasa Jepang
-repo_url: https://github.com/arsipais/BelajarBahasaJepang
 
 # Tema Konfigurasi
 theme:
@@ -87,18 +83,16 @@ markdown_extensions:
   - pymdownx.tilde
 
 # Footer
-copyright: Dibuat oleh Ais
+copyright: Dibuat oleh Cahaya
 
 # Konfigurasi Tambahan
 extra:
   generator: false
   social:
     - icon: fontawesome/solid/envelope
-      link: mailto:alamatkamu@gmail.com
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/nY9FdajndM
+      link: mailto:tanyacahaya@proton.me
     - icon: fontawesome/solid/gift
-      link: https://saweria.co/Philia
+      link: https://yapp.ink/cahaya/tip
 
 extra_css:
   - stylesheets/extra.css
