@@ -1,14 +1,8 @@
+# Informasi Proyek
 site_name: My MkDocs Material Documentation
 site_url: https://sitename.example
 
-nav:
-  - "Beranda": "index.md"
-  - "Jepang":
-      - "Grammar": "Bahasa/Jepang/Grammar/index.md"
-      - "Cure Dolly": "Bahasa/Jepang/Cure Dolly/index.md"
-      - "Minna No Nihongo":
-          - "Chapter 1": "Bahasa/Jepang/Minna No Nihongo/Chapter 1.md"
-      - "Yokubi": "Bahasa/Jepang/Yokubi/index.md"
+# Tema Konfigurasi
 theme:
   name: material
   font:
@@ -17,15 +11,14 @@ theme:
   features:
     - navigation.footer
   palette:
-    # Dark Mode
+    # Mode Gelap
     - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Dark mode
       primary: green
       accent: deep purple
-
-    # Light Mode
+    # Mode Terang
     - scheme: default
       toggle:
         icon: material/weather-night
@@ -33,6 +26,17 @@ theme:
       primary: blue
       accent: deep orange
 
+# Navigasi Menu
+nav:
+  - "Beranda": "index.md"
+  - "Grammar":
+      - "All": "Bahasa/Jepang/Grammar/index.md"
+      - "Cure Dolly": "Bahasa/Jepang/Cure Dolly/index.md"
+      - "Minna No Nihongo":
+          - "Chapter 1": "Bahasa/Jepang/Minna No Nihongo/Chapter 1.md"
+      - "Yokubi": "Bahasa/Jepang/Yokubi/index.md"
+
+# Ekstensi Markdown
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
@@ -49,6 +53,10 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+
+# Footer
 copyright: Dibuat oleh Ais
+
+# Konfigurasi Tambahan
 extra:
   generator: false
