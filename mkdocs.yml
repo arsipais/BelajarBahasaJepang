@@ -305,7 +305,9 @@ nav:
   - Blog:
       - blog/index.md
 
-    copyright: Dibuat oleh Ais
+# Copyright
+copyright: Dibuat oleh Ais
 
-    extra:
-      generator: false
+# Additional configuration
+extra:
+  generator: false
