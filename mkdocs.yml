@@ -5,12 +5,13 @@ site_author: Ais
 site_description: Catatan pribadi & sumber belajar bahasa Jepang.
 
 # Repository
-repo_name: arsipais/BelajarBahasaJepang
+repo_name: Belajar Bahasa Jepang
 repo_url: https://github.com/arsipais/BelajarBahasaJepang
 
 # Tema Konfigurasi
 theme:
   name: material
+  language: id
   font:
     text: Inter
     code: JetBrains Mono
