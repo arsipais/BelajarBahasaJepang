@@ -25,10 +25,5 @@ jobs:
           path: ~/.cache
           restore-keys: |
             mkdocs-material-
-
-      # --- BAGIAN INI YANG DIUBAH ---
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-
-      - name: Deploy to GitHub Pages
-        run: mkdocs gh-deploy --force
+      - run: pip install mkdocs-material
+      - run: mkdocs gh-deploy --force
