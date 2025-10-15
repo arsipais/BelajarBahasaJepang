@@ -19,21 +19,17 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
-site_url: https://squidfunk.github.io/mkdocs-material/
-site_author: Martin Donath
+site_name: Ais Belajar Bahasa Jepang
+site_url: https://arsipais.github.io/BelajarBahasaJepang/
+site_author: Ais
 site_description: >-
-  Write your documentation in Markdown and create a professional static site in
-  minutes – searchable, customizable, in 60+ languages, for all devices
+  Ais Belajar Bahasa Jepang
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: arsipais/BelajarBahasaJepang
+repo_url: https://arsipais.github.io/BelajarBahasaJepang/
 
 copyright: Dibuat oleh Ais
-
-extra:
-  generator: false
 
 # Configuration
 theme:
@@ -87,8 +83,8 @@ theme:
         icon: material/toggle-switch-off
         name: Switch to system preference
   font:
-    text: Roboto
-    code: Roboto Mono
+    text: Inter
+    code: JetBrains Mono
   favicon: assets/favicon.png
   icon:
     logo: logo
@@ -120,18 +116,13 @@ extra:
     provider: google
     property: !ENV GOOGLE_ANALYTICS_KEY
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/squidfunk
-    - icon: fontawesome/brands/docker
-      link: https://hub.docker.com/r/squidfunk/mkdocs-material/
-    - icon: fontawesome/brands/python
-      link: https://pypi.org/project/mkdocs-material/
-    - icon: fontawesome/brands/bluesky
-      link: https://bsky.app/profile/squidfunk.bsky.social
-    - icon: fontawesome/brands/mastodon
-      link: https://fosstodon.org/@squidfunk
-    - icon: fontawesome/brands/x-twitter
-      link: https://x.com/squidfunk
+    - icon: fontawesome/solid/envelope
+      link: mailto:alamatkamu@gmail.com
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/nY9FdajndM
+    - icon: fontawesome/solid/gift
+      link: https://saweria.co/Philia
+  generator: false
 
 # Extensions
 markdown_extensions:
