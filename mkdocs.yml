@@ -1,6 +1,13 @@
 # Informasi Proyek
-site_name: My MkDocs Material Documentation
-site_url: https://sitename.example
+site_name: Ais Belajar Bahasa Jepang
+site_url: https://arsipais.github.io/BelajarBahasaJepang/
+site_author: Ais
+site_description: >-
+  Ais Belajar Bahasa Jepang
+
+# Repository
+repo_name: arsipais/BelajarBahasaJepang
+repo_url: https://github.com/arsipais/BelajarBahasaJepang
 
 # Tema Konfigurasi
 theme:
@@ -16,15 +23,15 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: green
-      accent: deep purple
+      primary: black
+      accent: indigo
     # Mode Terang
     - scheme: default
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: blue
-      accent: deep orange
+      primary: black
+      accent: indigo
 
 # Navigasi Menu
 nav:
@@ -66,3 +73,6 @@ extra:
       link: https://discord.gg/nY9FdajndM
     - icon: fontawesome/solid/gift
       link: https://saweria.co/Philia
+
+extra_css:
+  - stylesheets/extra.css
