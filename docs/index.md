@@ -1,17 +1,41 @@
-# Welcome to MkDocs
+# Ais Belajar Bahasa Jepang
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Catatan pribadi & sumber belajar bahasa Jepang. Dibuat untuk teman-teman seperjuangan.
 
-## Commands
+Halo, saya Ais! Seorang pelajar yang lagi suka-sukanya sama bahasa Jepang. Website ini adalah cara saya merapikan semua materi yang saya temukan, biar nggak hilang dan sekalian bisa berbagi. Semoga bermanfaat, ya!
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
 
-## Project layout
+## 🚀 Jelajahi Konten
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Pilih bagian yang ingin kamu pelajari:
+
+### [📚 Tata Bahasa (Grammar)](./grammar/)
+
+Kumpulan rangkuman _bunpou_ (文法) dari level dasar hingga menengah, disajikan sesimpel mungkin.
+
+### [🧠 Metode Belajar](./metode-belajar/)
+
+Berbagai strategi dan tips belajar efektif yang saya pakai, mulai dari _shadowing_ sampai _sentence mining_.
+
+### [🛠️ Tutorial](./tutorial/)
+
+Panduan langkah-demi-langkah untuk mengatur _tools_ atau aplikasi yang membantu proses belajar, seperti Anki, Yomi-chan, dan lain-lain.
+
+### [🌐 Sumber Daya Lain](./sumber-daya/)
+
+Koleksi link kamus, channel YouTube, dan website favorit yang sangat membantu dalam perjalanan belajar.
+
+---
+
+## 👋 Terhubung & Beri Dukungan
+
+Punya pertanyaan, saran, atau sekadar ingin menyapa? Jangan ragu!
+
+- **Kontak Saya**: Kamu bisa menghubungi saya melalui [Email](mailto:emailkamu@example.com) atau gabung [server Discord](https://discord.gg/nY9FdajndM).
+- **Dukung Saya**: Jika website ini membantumu, kamu bisa mendukung saya dengan mentraktir secangkir kopi virtual. Setiap dukungan sangat berarti untuk menjaga website ini tetap hidup dan terus berkembang.
+  - **[Saweria](https://saweria.co/Philia)**
+
+---
+
+Terima kasih sudah mampir. Mari berjuang bersama! 頑張りましょう！
