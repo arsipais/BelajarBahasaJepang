@@ -31,9 +31,8 @@ nav:
   - "Beranda": "index.md"
   - "Grammar":
       - "All": "Bahasa/Jepang/Grammar/index.md"
+      - "Minna No Nihongo": "Bahasa/Jepang/Minna No Nihongo/index.md"
       - "Cure Dolly": "Bahasa/Jepang/Cure Dolly/index.md"
-      - "Minna No Nihongo":
-          - "Chapter 1": "Bahasa/Jepang/Minna No Nihongo/Chapter 1.md"
       - "Yokubi": "Bahasa/Jepang/Yokubi/index.md"
 
 # Ekstensi Markdown
@@ -60,3 +59,10 @@ copyright: Dibuat oleh Ais
 # Konfigurasi Tambahan
 extra:
   generator: false
+  social:
+    - icon: fontawesome/solid/envelope
+      link: mailto:alamatkamu@gmail.com
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/nY9FdajndM
+    - icon: fontawesome/solid/gift
+      link: https://saweria.co/Philia
