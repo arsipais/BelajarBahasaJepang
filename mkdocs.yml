@@ -17,7 +17,7 @@ theme:
     - navigation.instant.progress
     - navigation.tracking
     # - navigation.sections
-    - navigation.expand
+    # - navigation.expand
     - navigation.path
     - navigation.top
     # - navigation.tabs        # <-- INI KITA NONAKTIFKAN (diberi tanda #) KARENA MENYEBABKAN KONFLIK
