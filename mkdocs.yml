@@ -53,15 +53,14 @@ theme:
       accent: indigo
 
 # Navigasi Menu
-# BAGIAN INI SPASINYA SUDAH DIRAPIKAN AGAR STRUKTURNYA BENAR
 nav:
-  - "Beranda": "index.md"
-  - "Grammar":
-      - "Minna No Nihongo":
-          - "Pengantar": "Grammar/Minna No Nihongo/index.md"
-          - "Bab 1": "Grammar/Minna No Nihongo/Chapter 1.md"
-      - "Cure Dolly": "Grammar/Cure Dolly/index.md"
-      - "Yokubi": "Grammar/Yokubi/index.md"
+  - Beranda: index.md
+  - Grammar:
+      - Minna No Nihongo:
+          - Pengantar: Grammar/Minna No Nihongo/index.md
+          - Bab 1: Grammar/Minna No Nihongo/Chapter 1.md
+      - Cure Dolly: Grammar/Cure Dolly/index.md
+      - Yokubi: Grammar/Yokubi/index.md
 
 # Ekstensi Markdown
 markdown_extensions:
