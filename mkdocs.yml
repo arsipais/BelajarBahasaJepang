@@ -22,8 +22,8 @@ theme:
     # - navigation.expand
     - navigation.path
     - navigation.top
-    # - navigation.tabs        # <-- INI KITA NONAKTIFKAN (diberi tanda #) KARENA MENYEBABKAN KONFLIK
-    # - navigation.tabs.sticky # <-- INI JUGA IKUT DINONAKTIFKAN
+    - navigation.tabs # <-- INI KITA NONAKTIFKAN (diberi tanda #) KARENA MENYEBABKAN KONFLIK
+    - navigation.tabs.sticky # <-- INI JUGA IKUT DINONAKTIFKAN
     - search.suggest
     - search.highlight
     - search.share
