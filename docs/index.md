@@ -1,7 +1,7 @@
 # Cahaya Belajar Bahasa Jepang
 
 Catatan pribadi & sumber belajar bahasa Jepang. Dibuat untuk teman-teman seperjuangan.
-
+![[cat_study.png]]
 ## Tentang Saya
 
 Halo, aku Cahaya! Seorang pelajar yang lagi suka-sukanya sama bahasa Jepang. Website ini adalah cara saya merapikan semua materi yang saya temukan, biar nggak hilang dan sekalian bisa berbagi. Semoga bermanfaat, ya!
@@ -34,9 +34,11 @@ Koleksi link kamus, channel YouTube, dan website favorit yang sangat membantu da
 
 Punya pertanyaan, saran, atau sekadar ingin menyapa? Jangan ragu!
 
-- **Kontak Saya**: Kamu bisa menghubungi saya melalui [Email](mailto:tanyacahaya@proton.me).
+- **Kontak Saya**: Kamu bisa menghubungi saya melalui [Email](mailto:tanyacahaya@proton.me) (tanyacahaya@proton.me).
 - **Dukung Saya**: Jika website ini membantumu, kamu bisa mendukung aku [disini](https://yapp.ink/cahaya/tip). Setiap dukungan sangat berarti untuk menjaga website ini tetap hidup dan terus berkembang.
 
 ---
 
-Terima kasih sudah mampir. Mari berjuang bersama! 頑張りましょう！
+Terima kasih sudah mampir. 
+Mari berjuang bersama!
+頑張りましょう！

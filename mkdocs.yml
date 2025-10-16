@@ -12,6 +12,10 @@ theme:
     text: Inter
     code: JetBrains Mono
   features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
@@ -22,6 +26,8 @@ theme:
     - search.highlight
     - search.share
     - navigation.footer
+    - content.code.copy
+
   palette:
     # Mode Gelap
     - scheme: slate
@@ -40,12 +46,11 @@ theme:
 
 # Navigasi Menu
 nav:
-  - "Beranda": "index.md"
-  - "Grammar":
-      - "All": "Bahasa/Jepang/Grammar/index.md"
-      - "Minna No Nihongo": "Bahasa/Jepang/Minna No Nihongo/index.md"
-      - "Cure Dolly": "Bahasa/Jepang/Cure Dolly/index.md"
-      - "Yokubi": "Bahasa/Jepang/Yokubi/index.md"
+  - Beranda: index.md
+  - Grammar:
+      - Minna No Nihongo: Grammar/Minna No Nihongo/index.md
+      - Cure Dolly: Grammar/Cure Dolly/index.md
+      - Yokubi: Grammar/Yokubi/index.md
 
 # Ekstensi Markdown
 markdown_extensions:
@@ -98,6 +103,8 @@ extra_css:
   - stylesheets/extra.css
 
 plugins:
+  - search
+  - tags
   - glightbox:
       touchNavigation: true
       loop: false
