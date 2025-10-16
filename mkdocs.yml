@@ -56,12 +56,11 @@ theme:
 nav:
   - Beranda: index.md
   - Grammar:
-      - Grammar:
-      - Minna No Nihongo:
-          - Pengantar: Grammar/Minna No Nihongo/index.md
-          - Bab 1: Grammar/Minna No Nihongo/Chapter 1.md
-      - Cure Dolly: Grammar/Cure Dolly/index.md
-      - Yokubi: Grammar/Yokubi/index.md
+    - Minna No Nihongo:
+      - Pengantar: Grammar/Minna No Nihongo/index.md
+      - Bab 1: Grammar/Minna No Nihongo/Chapter 1.md
+    - Cure Dolly: Grammar/Cure Dolly/index.md
+    - Yokubi: Grammar/Yokubi/index.md
 
 # Ekstensi Markdown
 markdown_extensions:
