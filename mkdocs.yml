@@ -18,7 +18,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.sections    - navigation.path
     - navigation.path
-   - navigation.top
+    - navigation.top
     # - navigation.instant
     # - navigation.instant.progress
     # - navigation.tracking
