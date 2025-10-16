@@ -14,20 +14,24 @@ theme:
     text: Inter
     code: JetBrains Mono
   features:
-    - navigation.instant
-    - navigation.instant.progress
-    - navigation.tracking
-    - navigation.sections
-    - navigation.expand
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections    - navigation.path
     - navigation.path
-    - navigation.footer
+    # - navigation.instant
+    # - navigation.instant.progress
+    # - navigation.tracking
+    # - navigation.sections
+    #- navigation.expand
+    # - navigation.path
+    # - navigation.footer
     # - navigation.instant
     # - navigation.instant.prefetch
     # - navigation.instant.progress
     # - navigation.prune
-    - navigation.tabs
+    # - navigation.tabs
     # - navigation.tabs.sticky
-    - navigation.top
+    # - navigation.top
     - toc.follow
     # - toc.integrate
     - search.suggest
