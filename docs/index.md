@@ -2,7 +2,7 @@
 
 Catatan pribadi & sumber belajar bahasa Jepang. Dibuat untuk teman-teman seperjuangan.
 
-![cat study](assets\images\cat_study.png)
+![cat study](assets\images\cat_study.png){width="400"}
 
 ## Tentang Saya
 
