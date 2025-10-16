@@ -49,6 +49,8 @@ nav:
   - Beranda: index.md
   - Grammar:
       - Minna No Nihongo: Grammar/Minna No Nihongo/index.md
+      - Pengantar: Grammar/Minna No Nihongo/index.md # Teks "Pengantar" akan menuju ke index.md
+      - Bab 1: Grammar/Minna No Nihongo/Chapter 1.md
       - Cure Dolly: Grammar/Cure Dolly/index.md
       - Yokubi: Grammar/Yokubi/index.md
 
