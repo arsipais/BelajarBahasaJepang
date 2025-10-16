@@ -18,12 +18,12 @@ theme:
     - navigation.instant
     - navigation.instant.progress
     - navigation.tracking
-    # - navigation.sections
-    # - navigation.expand
+    - navigation.sections
+    - navigation.expand
     - navigation.path
     - navigation.top
-    - navigation.tabs # <-- INI KITA NONAKTIFKAN (diberi tanda #) KARENA MENYEBABKAN KONFLIK
-    - navigation.tabs.sticky # <-- INI JUGA IKUT DINONAKTIFKAN
+    - navigation.tabs
+    - navigation.tabs.sticky
     - search.suggest
     - search.highlight
     - search.share
