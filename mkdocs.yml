@@ -21,7 +21,6 @@ theme:
     - navigation.expand
     - navigation.path
     - navigation.footer
-    - navigation.indexes
     # - navigation.instant
     # - navigation.instant.prefetch
     # - navigation.instant.progress
@@ -56,11 +55,11 @@ theme:
 nav:
   - Beranda: index.md
   - Grammar:
-    - Minna No Nihongo:
-      - Pengantar: Grammar/Minna No Nihongo/index.md
-      - Bab 1: Grammar/Minna No Nihongo/Chapter 1.md
-    - Cure Dolly: Grammar/Cure Dolly/index.md
-    - Yokubi: Grammar/Yokubi/index.md
+      - Minna No Nihongo:
+          - Pengantar: Grammar/Minna No Nihongo/index.md
+          - Bab 1: Grammar/Minna No Nihongo/Chapter 1.md
+      - Cure Dolly: Grammar/Cure Dolly/index.md
+      - Yokubi: Grammar/Yokubi/index.md
 
 # Ekstensi Markdown
 markdown_extensions:
