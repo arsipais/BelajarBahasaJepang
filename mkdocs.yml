@@ -1,8 +1,3 @@
-# =======================================================
-# KODE DI BAWAH INI SUDAH DIPERBAIKI
-# SEMUA "SPASI ANEH" SUDAH DIHAPUS DAN DIGANTI SPASI NORMAL
-# =======================================================
-
 # Informasi Proyek
 site_name: Cahaya Belajar Bahasa Jepang
 site_url: https://arsipcahaya.github.io/BelajarBahasaJepang/
@@ -12,8 +7,8 @@ site_description: Catatan pribadi & sumber belajar bahasa Jepang.
 # Tema Konfigurasi
 theme:
   name: material
-  logo: :flag_jp:
-  favicon: :flag_jp:
+  logo: assets\images\japan.png
+  favicon: assets\images\japan.png
   language: id
   font:
     text: Inter
@@ -23,8 +18,12 @@ theme:
     - navigation.instant
     - navigation.instant.progress
     - navigation.tracking
+    # - navigation.sections
+    # - navigation.expand
     - navigation.path
     - navigation.top
+    # - navigation.tabs        # <-- INI KITA NONAKTIFKAN (diberi tanda #) KARENA MENYEBABKAN KONFLIK
+    # - navigation.tabs.sticky # <-- INI JUGA IKUT DINONAKTIFKAN
     - search.suggest
     - search.highlight
     - search.share
@@ -48,14 +47,15 @@ theme:
       accent: indigo
 
 # Navigasi Menu
+# BAGIAN INI SPASINYA SUDAH DIRAPIKAN AGAR STRUKTURNYA BENAR
 nav:
-  - 'Beranda': 'index.md'
-  - 'Grammar':
-    - 'Minna No Nihongo':
-      - 'Pengantar': 'Grammar/Minna No Nihongo/index.md'
-      - 'Bab 1': 'Grammar/Minna No Nihongo/Chapter 1.md'
-    - 'Cure Dolly': 'Grammar/Cure Dolly/index.md'
-    - 'Yokubi': 'Grammar/Yokubi/index.md'
+  - "Beranda": "index.md"
+  - "Grammar":
+      - "Minna No Nihongo":
+          - "Pengantar": "Grammar/Minna No Nihongo/index.md"
+          - "Bab 1": "Grammar/Minna No Nihongo/Chapter 1.md"
+      - "Cure Dolly": "Grammar/Cure Dolly/index.md"
+      - "Yokubi": "Grammar/Yokubi/index.md"
 
 # Ekstensi Markdown
 markdown_extensions:
