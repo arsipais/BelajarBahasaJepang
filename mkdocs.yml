@@ -14,21 +14,26 @@ theme:
     text: Inter
     code: JetBrains Mono
   features:
-    # Fitur navigasi yang kita butuhkan
     - navigation.instant
     - navigation.instant.progress
     - navigation.tracking
     - navigation.sections
     - navigation.expand
     - navigation.path
-    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
+    # - navigation.prune
     - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.integration
+    # - navigation.tabs.sticky
+    - navigation.top
+    - toc.follow
+    # - toc.integrate
     - search.suggest
     - search.highlight
     - search.share
-    - navigation.footer
     - content.code.copy
 
   palette:
