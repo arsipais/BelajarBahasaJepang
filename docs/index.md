@@ -1,7 +1,9 @@
 # Cahaya Belajar Bahasa Jepang
 
 Catatan pribadi & sumber belajar bahasa Jepang. Dibuat untuk teman-teman seperjuangan.
-![[cat_study.png]]
+
+![cat study](assets\images\cat_study.png)
+
 ## Tentang Saya
 
 Halo, aku Cahaya! Seorang pelajar yang lagi suka-sukanya sama bahasa Jepang. Website ini adalah cara saya merapikan semua materi yang saya temukan, biar nggak hilang dan sekalian bisa berbagi. Semoga bermanfaat, ya!
@@ -39,6 +41,6 @@ Punya pertanyaan, saran, atau sekadar ingin menyapa? Jangan ragu!
 
 ---
 
-Terima kasih sudah mampir. 
+Terima kasih sudah mampir.
 Mari berjuang bersama!
 頑張りましょう！
