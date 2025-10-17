@@ -12,9 +12,9 @@ Seperti biasa, kita bakal bedah satu per satu setiap poin grammar-nya pake forma
 
 ## 1. Kata Tunjuk Benda: `これ・それ・あれ` (Ini / Itu / Itu yang Jauh)
 
-### Terjemahan Inti
+### Poin Utama
 
-> `これ` (kore), `それ` (sore), dan `あれ` (are) adalah kata ganti penunjuk. Kata-kata ini berfungsi sebagai kata benda. `これ` menunjuk ke benda yang dekat dengan pembicara. `それ` menunjuk ke benda yang dekat dengan lawan bicara. `あれ` menunjuk ke benda yang jauh dari keduanya.
+`これ` (kore), `それ` (sore), dan `あれ` (are) adalah kata ganti penunjuk. Kata-kata ini berfungsi sebagai kata benda. `これ` menunjuk ke benda yang dekat dengan pembicara. `それ` menunjuk ke benda yang dekat dengan lawan bicara. `あれ` menunjuk ke benda yang jauh dari keduanya.
 
 ### Penjelasan Sederhana (Ayo Kita Bedah!)
 
@@ -42,7 +42,7 @@ Ini adalah trio kata tunjuk paling dasar. Biar gampang, bayangin kita punya "zon
 2.  (Lihat tas di kursi teman) `それは だれの かばんですか。` (Sore wa dare no kaban desu ka?) → "Itu tas siapa?"
 3.  (Lihat poster di dinding yang jauh) `あれは 新しいアニメの ポスターです。` (Are wa atarashii anime no posutaa desu.) → "Itu (yang di sana) adalah poster anime baru."
 
-### Tips & Info Ekstra (Penting Nih!)
+!!! info "Tips & Info Ekstra" (Penting Nih!)
 
 - Ingat, `これ`, `それ`, `あれ` itu adalah **kata benda**. Artinya, mereka bisa berdiri sendiri sebagai subjek atau objek. `これは本です。` (Ini adalah buku.) Kalimat ini lengkap dan benar. Ini bakal jadi penting buat ngebedain sama poin berikutnya.
 
@@ -50,9 +50,9 @@ Ini adalah trio kata tunjuk paling dasar. Biar gampang, bayangin kita punya "zon
 
 ## 2. Kata Tunjuk Plus Benda: `この N・その N・あの N`
 
-### Terjemahan Inti
+### Poin Utama
 
-> `この N` menunjuk ke benda atau orang yang dekat dengan pembicara. `その N` menunjuk ke benda atau orang yang dekat dengan lawan bicara. `あの N` menunjuk ke benda atau orang yang jauh dari keduanya.
+`この N` menunjuk ke benda atau orang yang dekat dengan pembicara. `その N` menunjuk ke benda atau orang yang dekat dengan lawan bicara. `あの N` menunjuk ke benda atau orang yang jauh dari keduanya.
 
 ### Penjelasan Sederhana (Ayo Kita Bedah!)
 
@@ -79,7 +79,7 @@ Trio ini adalah "versi upgrade" dari yang tadi. Bedanya tipis tapi krusial: `こ
 2.  `そのジュースは おいしいですか。` (Sono juusu wa oishii desu ka?) → "Apakah jus itu enak?"
 3.  `あの先生は 数学の先生です。` (Ano sensei wa suugaku no sensei desu.) → "Guru itu (yang di sana) adalah guru matematika."
 
-### Tips & Info Ekstra (Penting Nih!)
+!!! info "Tips & Info Ekstra" (Penting Nih!)
 
 - **Jebakan Batman Terbesar Pemula:** Bedain `これ` vs `この`.
   - `これ` itu kata benda. **Benar:** `これは本です。` (Kore wa hon desu.)
@@ -90,9 +90,9 @@ Trio ini adalah "versi upgrade" dari yang tadi. Bedanya tipis tapi krusial: `こ
 
 ## 3. Konfirmasi & Sanggahan: `そうです・そうじゃありません`
 
-### Terjemahan Inti
+### Poin Utama
 
-> Untuk kalimat kata benda, kata `そう` (sou) sering dipakai untuk menjawab pertanyaan yang butuh jawaban afirmatif (iya) atau negatif (tidak). `はい、そうです` adalah jawaban afirmatif. `いいえ、そうじゃありません` adalah jawaban negatif. Kata kerja `ちがいます` (chigaimasu) juga bisa dipakai menggantikan `そうじゃありません`.
+Untuk kalimat kata benda, kata `そう` (sou) sering dipakai untuk menjawab pertanyaan yang butuh jawaban afirmatif (iya) atau negatif (tidak). `はい、そうです` adalah jawaban afirmatif. `いいえ、そうじゃありません` adalah jawaban negatif. Kata kerja `ちがいます` (chigaimasu) juga bisa dipakai menggantikan `そうじゃありません`.
 
 ### Penjelasan Sederhana (Ayo Kita Bedah!)
 
@@ -120,7 +120,7 @@ Ini adalah cara cepat dan sopan buat bilang "Betul" atau "Bukan".
 3.  **A:** `宿題は 今日ですか。` (Shukudai wa kyou desu ka? - PR-nya hari ini?)
     **B:** `いいえ、違います。明日です。` (Iie, chigaimasu. Ashita desu. - Bukan, salah. Besok.)
 
-### Tips & Info Ekstra (Penting Nih!)
+!!! info "Tips & Info Ekstra" (Penting Nih!)
 
 - `そうです` adalah jawaban super praktis, tapi **hanya** untuk pertanyaan "iya/tidak". Kalau pertanyaannya pakai kata tanya (siapa/apa/kapan), kamu nggak bisa jawab pakai `そうです`.
 
@@ -128,9 +128,9 @@ Ini adalah cara cepat dan sopan buat bilang "Betul" atau "Bukan".
 
 ## 4. Pertanyaan Pilihan: `S1 か、S2 か`
 
-### Terjemahan Inti
+### Poin Utama
 
-> Ini adalah tipe pertanyaan yang meminta pendengar untuk memilih antara alternatif S1 dan S2 sebagai jawaban. Untuk tipe pertanyaan ini, kalimat yang dipilih yang disebutkan. `はい` (hai) atau `いいえ` (iie) tidak digunakan.
+Ini adalah tipe pertanyaan yang meminta pendengar untuk memilih antara alternatif S1 dan S2 sebagai jawaban. Untuk tipe pertanyaan ini, kalimat yang dipilih yang disebutkan. `はい` (hai) atau `いいえ` (iie) tidak digunakan.
 
 ### Penjelasan Sederhana (Ayo Kita Bedah!)
 
@@ -157,7 +157,7 @@ Yang paling penting, jawabannya **bukan** `はい` atau `いいえ`, tapi langsu
 2.  **A:** `それは ジュースですか、お茶ですか。` (Sore wa juusu desu ka, ocha desu ka? - Itu jus atau teh?)
     **B:** `お茶です。` (Ocha desu. - Teh.)
 
-### Tips & Info Ekstra (Penting Nih!)
+!!! info "Tips & Info Ekstra" (Penting Nih!)
 
 - Kalau kamu ditanya pakai format ini dan kamu jawab `はい`, orang Jepang bakal bingung. "Iya... iya apa? 9 atau 7?" Jadi, selalu jawab dengan salah satu pilihannya.
 
@@ -165,12 +165,14 @@ Yang paling penting, jawabannya **bukan** `はい` atau `いいえ`, tapi langsu
 
 ## 5. Jurus Serbaguna `の` (Lanjutan)
 
-### Terjemahan Inti
+### Poin Utama
 
-> Di Bab 1, kamu belajar `の` dipakai untuk menghubungkan kata benda. Di Bab 2, kamu belajar dua kegunaan lain:
+Di Bab 1, kamu belajar `の` dipakai untuk menghubungkan kata benda. Di Bab 2, kamu belajar dua kegunaan lain:
+
 >
-> 1. `N1` menjelaskan **tentang** `N2`. Contoh: `これはコンピューターの本です。` (Ini adalah buku tentang komputer).
-> 2. `N1` menjelaskan **pemilik** `N2`. Saat `N2` sudah jelas dari konteks, `N2` bisa dihilangkan.
+
+1. `N1` menjelaskan **tentang** `N2`. Contoh: `これはコンピューターの本です。` (Ini adalah buku tentang komputer).
+2. `N1` menjelaskan **pemilik** `N2`. Saat `N2` sudah jelas dari konteks, `N2` bisa dihilangkan.
 
 ### Penjelasan Sederhana (Ayo Kita Bedah!)
 
@@ -195,7 +197,7 @@ Partikel `の` yang tadinya kita kenal sebagai "lem kepemilikan" ternyata punya 
     **A:** `そのスマホは だれのですか。` (Sono sumaho wa dare no desu ka? - HP itu milik siapa?)
     **B:** `それは 先生のです。` (Sore wa sensei no desu. - Itu milik guru.)
 
-### Tips & Info Ekstra (Penting Nih!)
+!!! info "Tips & Info Ekstra" (Penting Nih!)
 
 - Aturan "penyingkatan" ini super umum. Kamu bakal sering banget dengar kalimat yang diakhiri dengan `〜のです`. Kuncinya, lihat konteks kalimat sebelumnya untuk tahu benda apa yang lagi diomongin.
 
@@ -203,9 +205,9 @@ Partikel `の` yang tadinya kita kenal sebagai "lem kepemilikan" ternyata punya 
 
 ## 6. Frasa 'Oh, Gitu ya!': `そうですか`
 
-### Terjemahan Inti
+### Poin Utama
 
-> Ekspresi ini digunakan ketika pembicara menerima informasi baru dan menunjukkan bahwa ia memahaminya.
+Ekspresi ini digunakan ketika pembicara menerima informasi baru dan menunjukkan bahwa ia memahaminya.
 
 ### Penjelasan Sederhana (Ayo Kita Bedah!)
 
@@ -236,7 +238,7 @@ Nah lho, mirip sama poin 3, tapi beda! `そうですか` (sou desu ka) ini bukan
 2.  **A:** `あのレストランは とても高いですよ。` (Ano resutoran wa totemo takai desu yo. - Restoran itu mahal banget, lho.)
     **B:** `そうですか。` (Sou desu ka. - Oh, ya?)
 
-### Tips & Info Ekstra (Penting Nih!)
+!!! info "Tips & Info Ekstra" (Penting Nih!)
 
 - **Intonasi adalah Raja!**
   - `そうですか？` (intonasi **naik** ↗) = Pertanyaan. "Benarkah begitu?"

@@ -12,9 +12,9 @@ Oke, kita bedah satu per satu semua grammar keren di bab ini. Siap? Ayo mulai!
 
 ## 1. Trio Kata Kerja Gerakan & Partikel Arah `へ` (e)
 
-### Terjemahan Inti
+### Poin Utama
 
-> Ketika sebuah kata kerja mengindikasikan pergerakan ke suatu tempat, partikel `へ` (e) diletakkan setelah kata benda tempat untuk menunjukkan arah dari pergerakan tersebut. [Catatan] Partikel `へ` dibaca `え` (e).
+Ketika sebuah kata kerja mengindikasikan pergerakan ke suatu tempat, partikel `へ` (e) diletakkan setelah kata benda tempat untuk menunjukkan arah dari pergerakan tersebut. [Catatan] Partikel `へ` dibaca `え` (e).
 
 ### Penjelasan Sederhana (Ayo Kita Bedah!)
 
@@ -42,7 +42,7 @@ Nah, partikel `へ` (e) ini fungsinya kayak **panah penunjuk arah** atau **GPS**
 2.  (Temanmu menelepon) `今から あなたの所へ 来ます。` (Ima kara anata no tokoro e kimasu.) → "Saya akan datang ke tempatmu sekarang." (Pakai `来ます` karena dia bergerak mendekatimu).
 3.  `毎日 ７時に うちへ 帰ります。` (Mainichi shichiji ni uchi e kaerimasu.) → "Setiap hari saya pulang ke rumah jam 7."
 
-### Tips & Info Ekstra (Penting Nih!)
+!!! info "Tips & Info Ekstra" (Penting Nih!)
 
 - **`へ` (e) vs. `に` (ni):** Kamu mungkin bakal lihat partikel `に` juga dipakai buat tujuan. Bedanya apa? `へ` (e) lebih menekankan **ARAH** pergerakan, sementara `に` (ni) lebih menekankan **TITIK TIBA** atau destinasinya. Buat pemula, keduanya seringkali bisa saling menggantikan untuk kata kerja gerakan ini. Dan jangan lupa, `へ` dibaca **E**!
 
@@ -50,9 +50,9 @@ Nah, partikel `へ` (e) ini fungsinya kayak **panah penunjuk arah** atau **GPS**
 
 ## 2. Jurus Negasi Total: `どこ[へ]も 行きません`
 
-### Terjemahan Inti
+### Poin Utama
 
-> Ketika sebuah kata tanya diikuti partikel `も` (mo) dan kata kerja setelahnya berbentuk negatif, maka semua yang diwakili oleh kata tanya tersebut disangkal.
+Ketika sebuah kata tanya diikuti partikel `も` (mo) dan kata kerja setelahnya berbentuk negatif, maka semua yang diwakili oleh kata tanya tersebut disangkal.
 
 ### Penjelasan Sederhana (Ayo Kita Bedah!)
 
@@ -81,7 +81,7 @@ Ini adalah "Jurus Combo" buat bilang "tidak ... sama sekali". Formulanya simpel 
 2.  `今朝、何も食べませんでした。` (Kesa, nani mo tabemasen deshita.) → "Tadi pagi, saya tidak makan apa pun."
 3.  `教室に だれもいません。` (Kyoushitsu ni dare mo imasen.) → "Di ruang kelas tidak ada siapa pun."
 
-### Tips & Info Ekstra (Penting Nih!)
+!!! info "Tips & Info Ekstra" (Penting Nih!)
 
 - Kunci dari jurus ini adalah kata kerjanya **WAJIB** negatif. Kalau kamu bilang `どこも行きます`, artinya jadi aneh dan salah. Jadi, `...も` harus selalu ditemani `...ません` atau `...ませんでした`.
 
@@ -89,9 +89,9 @@ Ini adalah "Jurus Combo" buat bilang "tidak ... sama sekali". Formulanya simpel 
 
 ## 3. Partikel 'Naik Apa?': `N (kendaraan) で`
 
-### Terjemahan Inti
+### Poin Utama
 
-> Partikel `で` (de) mengindikasikan sebuah cara atau metode. Ketika digunakan dengan kata kerja yang menunjukkan pergerakan (`行きます`, `来ます`, `帰ります`, dll), `で` mengindikasikan alat transportasi. Kata benda sebelumnya adalah kendaraan. Ketika kamu berjalan, gunakan ekspresi `歩いて` (aruite). Dalam kasus ini, `で` tidak digunakan.
+Partikel `で` (de) mengindikasikan sebuah cara atau metode. Ketika digunakan dengan kata kerja yang menunjukkan pergerakan (`行きます`, `来ます`, `帰ります`, dll), `で` mengindikasikan alat transportasi. Kata benda sebelumnya adalah kendaraan. Ketika kamu berjalan, gunakan ekspresi `歩いて` (aruite). Dalam kasus ini, `で` tidak digunakan.
 
 ### Penjelasan Sederhana (Ayo Kita Bedah!)
 
@@ -116,7 +116,7 @@ Satu-satunya pengecualian penting adalah **jalan kaki**. Untuk jalan kaki, kita 
 3.  **A:** `何で 東京へ行きますか。` (Nan de Tokyo e ikimasu ka? - Naik apa ke Tokyo?)
     **B:** `新幹線で行きます。` (Shinkansen de ikimasu. - Pergi naik Shinkansen.)
 
-### Tips & Info Ekstra (Penting Nih!)
+!!! info "Tips & Info Ekstra" (Penting Nih!)
 
 - Kata tanya untuk "naik apa?" adalah `何で` (nan de). Jangan bingung sama `なんで` (nande) yang artinya "kenapa?". Pembedanya biasanya intonasi dan konteks.
 
@@ -124,9 +124,9 @@ Satu-satunya pengecualian penting adalah **jalan kaki**. Untuk jalan kaki, kita 
 
 ## 4. Partikel 'Bareng Siapa?': `N (orang) と`
 
-### Terjemahan Inti
+### Poin Utama
 
-> Ketika kamu melakukan sesuatu bersama seseorang (atau hewan), orang (atau hewan) tersebut ditandai dengan partikel `と` (to). Jika kamu melakukan sesuatu sendirian, digunakan ekspresi `ひとりで` (hitori de). Dalam kasus ini, `と` tidak digunakan.
+Ketika kamu melakukan sesuatu bersama seseorang (atau hewan), orang (atau hewan) tersebut ditandai dengan partikel `と` (to). Jika kamu melakukan sesuatu sendirian, digunakan ekspresi `ひとりで` (hitori de). Dalam kasus ini, `と` tidak digunakan.
 
 ### Penjelasan Sederhana (Ayo Kita Bedah!)
 
@@ -150,7 +150,7 @@ Sama seperti jalan kaki, ada pengecualian untuk **sendirian**. Kalau kamu melaku
 2.  `日曜日に 友達と ゲームをします。` (Nichiyoubi ni tomodachi to geemu o shimasu.) → "Di hari Minggu, saya main game bareng teman."
 3.  `時々 ひとりで 図書館へ行きます。` (Tokidoki hitori de toshokan e ikimasu.) → "Kadang-kadang saya pergi ke perpustakaan sendirian."
 
-### Tips & Info Ekstra (Penting Nih!)
+!!! info "Tips & Info Ekstra" (Penting Nih!)
 
 - Perhatikan, `ひとりで` (sendirian) pakai partikel `で`, bukan `と`. Ini adalah pasangan tetap yang harus dihafal.
 
@@ -158,9 +158,9 @@ Sama seperti jalan kaki, ada pengecualian untuk **sendirian**. Kalau kamu melaku
 
 ## 5. Bertanya 'Kapan?': `いつ`
 
-### Terjemahan Inti
+### Poin Utama
 
-> Untuk menanyakan tentang waktu, kata tanya `なんじ` (jam berapa), `なんようび` (hari apa), dan `なんがつなんにち` (bulan apa tanggal berapa) digunakan. Selain itu, kata tanya `いつ` (itsu) juga digunakan untuk menanyakan kapan sesuatu akan terjadi/telah terjadi. `いつ` tidak diikuti partikel `に`.
+Untuk menanyakan tentang waktu, kata tanya `なんじ` (jam berapa), `なんようび` (hari apa), dan `なんがつなんにち` (bulan apa tanggal berapa) digunakan. Selain itu, kata tanya `いつ` (itsu) juga digunakan untuk menanyakan kapan sesuatu akan terjadi/telah terjadi. `いつ` tidak diikuti partikel `に`.
 
 ### Penjelasan Sederhana (Ayo Kita Bedah!)
 
@@ -182,7 +182,7 @@ Sama seperti jalan kaki, ada pengecualian untuk **sendirian**. Kalau kamu melaku
 2.  **A:** `いつ そのゲームを買いましたか。` (Itsu sono geemu o kaimashita ka? - Kapan kamu beli game itu?)
     **B:** `先週 買いました。` (Senshuu kaimashita. - Saya beli minggu lalu.)
 
-### Tips & Info Ekstra (Penting Nih!)
+!!! info "Tips & Info Ekstra" (Penting Nih!)
 
 - Kesalahan paling sering pemula adalah bilang `いつに...`. Salah! Ingat baik-baik, `いつ` itu alergi sama `に`.
 
@@ -190,9 +190,9 @@ Sama seperti jalan kaki, ada pengecualian untuk **sendirian**. Kalau kamu melaku
 
 ## 6. Partikel Penegas 'Lho!': `S + よ`
 
-### Terjemahan Inti
+### Poin Utama
 
-> `よ` (yo) ditempatkan di akhir kalimat. `よ` digunakan untuk menekankan informasi yang tidak diketahui oleh pendengar, atau untuk menunjukkan bahwa kamu memberikan penilaian atau pandangan secara tegas.
+`よ` (yo) ditempatkan di akhir kalimat. `よ` digunakan untuk menekankan informasi yang tidak diketahui oleh pendengar, atau untuk menunjukkan bahwa kamu memberikan penilaian atau pandangan secara tegas.
 
 ### Penjelasan Sederhana (Ayo Kita Bedah!)
 
@@ -218,7 +218,7 @@ Sama seperti jalan kaki, ada pengecualian untuk **sendirian**. Kalau kamu melaku
 2.  **A:** `大丈夫？` (Daijoubu? - Kamu nggak apa-apa?)
     **B:** `大丈夫じゃないですよ！` (Daijoubu ja nai desu yo! - Nggak apa-apa kok!)
 
-### Tips & Info Ekstra (Penting Nih!)
+!!! info "Tips & Info Ekstra" (Penting Nih!)
 
 - **`よ` (yo) vs. `ね` (ne):** Ini beda tipis tapi penting!
   - `ね` (ne): Mencari persetujuan, info yang sudah sama-sama diketahui. `暑いですね！` (Panas ya, kan!).

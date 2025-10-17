@@ -12,9 +12,9 @@ Oke, tanpa basa-basi lagi, ayo kita bedah tuntas materi grammar dari gambar yang
 
 ## 1. Kata Tunjuk Tempat: `ここ・そこ・あそこ` & Versi Sopannya
 
-### Terjemahan Inti
+### Poin Utama
 
-> Kata penunjuk `これ`, `それ`, dan `あれ` (Bab 2) merujuk pada benda, sedangkan `ここ`, `そこ`, dan `あそこ` merujuk pada tempat. `ここ` (koko) adalah tempat di mana pembicara berada, `そこ` (soko) adalah tempat di mana pendengar berada, dan `あそこ` (asoko) adalah tempat yang jauh dari keduanya. `こちら` (kochira), `そちら` (sochira), dan `あちら` (achira) adalah kata penunjuk yang merujuk pada arah. Kata-kata ini juga digunakan untuk merujuk pada lokasi, dan dalam hal ini, mereka lebih sopan daripada `ここ`, `そこ`, `あそこ`.
+Kata penunjuk `これ`, `それ`, dan `あれ` (Bab 2) merujuk pada benda, sedangkan `ここ`, `そこ`, dan `あそこ` merujuk pada tempat. `ここ` (koko) adalah tempat di mana pembicara berada, `そこ` (soko) adalah tempat di mana pendengar berada, dan `あそこ` (asoko) adalah tempat yang jauh dari keduanya. `こちら` (kochira), `そちら` (sochira), dan `あちら` (achira) adalah kata penunjuk yang merujuk pada arah. Kata-kata ini juga digunakan untuk merujuk pada lokasi, dan dalam hal ini, mereka lebih sopan daripada `ここ`, `そこ`, `あそこ`.
 
 ### Penjelasan Sederhana (Ayo Kita Bedah!)
 
@@ -44,7 +44,7 @@ Nah, terus ada `こちら/そちら/あちら`. Anggap aja ini "Mode Sopan"-nya.
 3.  **A:** `あのビルは何ですか。` (Ano biru wa nan desu ka? - Gedung itu apa?)
     **B:** `あそこは 図書館です。` (Asoko wa toshokan desu. - Di sana itu perpustakaan.)
 
-### Tips & Info Ekstra (Penting Nih!)
+!!! info "Tips & Info Ekstra" (Penting Nih!)
 
 - **Kapan pakai versi sopan `こちら/そちら/あちら`?** Saat kamu ngomong sama guru, orang yang lebih tua, atau di situasi bisnis. Misalnya, pelayan restoran akan bilang, `「お手洗いはあちらです。」` (Otearai wa achira desu.) Kedengarannya lebih profesional.
 
@@ -52,9 +52,9 @@ Nah, terus ada `こちら/そちら/あちら`. Anggap aja ini "Mode Sopan"-nya.
 
 ## 2. Menyatakan Lokasi: `N は (Tempat) です`
 
-### Terjemahan Inti
+### Poin Utama
 
-> Dengan menggunakan pola kalimat ini, kamu bisa menjelaskan di mana letak sebuah tempat, benda, atau seseorang.
+Dengan menggunakan pola kalimat ini, kamu bisa menjelaskan di mana letak sebuah tempat, benda, atau seseorang.
 
 ### Penjelasan Sederhana (Ayo Kita Bedah!)
 
@@ -79,7 +79,7 @@ Ini adalah rumus super simpel buat ngasih tau lokasi sesuatu. Formulanya:
 2.  `私のスマホは かばんです。` (Watashi no sumaho wa kaban desu.) → "HP saya ada di (dalam) tas."
 3.  `食堂は あそこです。` (Shokudou wa asoko desu.) → "Kantin ada di sana."
 
-### Tips & Info Ekstra (Penting Nih!)
+!!! info "Tips & Info Ekstra" (Penting Nih!)
 
 - Pola kalimat ini sangat umum, tapi ada cara lain untuk menyatakan keberadaan (pakai `います` dan `あります`) yang akan kamu pelajari nanti. Untuk sekarang, `(Tempat) です` sudah cukup oke!
 
@@ -87,9 +87,9 @@ Ini adalah rumus super simpel buat ngasih tau lokasi sesuatu. Formulanya:
 
 ## 3. Bertanya 'Di Mana?': `どこ・どちら`
 
-### Terjemahan Inti
+### Poin Utama
 
-> `どこ` (doko) berarti "di mana" dan `どちら` (dochira) berarti "di arah mana". `どちら` juga bisa berarti "di mana" dan dalam kasus ini, `どちら` lebih sopan daripada `どこ`. `どこ` atau `どちら` juga digunakan untuk menanyakan nama negara, perusahaan, sekolah, atau organisasi tempat seseorang berasal. Kamu tidak bisa menggunakan `なん` (nan - apa).
+`どこ` (doko) berarti "di mana" dan `どちら` (dochira) berarti "di arah mana". `どちら` juga bisa berarti "di mana" dan dalam kasus ini, `どちら` lebih sopan daripada `どこ`. `どこ` atau `どちら` juga digunakan untuk menanyakan nama negara, perusahaan, sekolah, atau organisasi tempat seseorang berasal. Kamu tidak bisa menggunakan `なん` (nan - apa).
 
 ### Penjelasan Sederhana (Ayo Kita Bedah!)
 
@@ -115,7 +115,7 @@ Ini adalah rumus super simpel buat ngasih tau lokasi sesuatu. Formulanya:
 2.  (Bertanya dengan sopan ke orang baru) `会社は どちらですか。` (Kaisha wa dochira desu ka? - Perusahaan Anda apa?/Di mana?)
 3.  `君のクラスは どこですか。` (Kimi no kurasu wa doko desu ka? - Kelasmu yang mana?)
 
-### Tips & Info Ekstra (Penting Nih!)
+!!! info "Tips & Info Ekstra" (Penting Nih!)
 
 - Jangan sampai salah paham! Kalau ada yang nanya `「大学はどこですか。」` (Daigaku wa doko desu ka?), dia bukan nanya alamat kampusmu. Dia nanya, "Kamu kuliah di universitas apa?" Jawabannya nama universitasnya, misal: `「東京大学です。」` (Tokyo Daigaku desu.).
 
@@ -123,9 +123,9 @@ Ini adalah rumus super simpel buat ngasih tau lokasi sesuatu. Formulanya:
 
 ## 4. `の` Lanjutan: Menanyakan Asal Produk
 
-### Terjemahan Inti
+### Poin Utama
 
-> Ketika N1 adalah nama negara dan N2 adalah sebuah produk, artinya N2 dibuat di negara tersebut. Ketika N1 adalah nama perusahaan dan N2 adalah produk, artinya N2 dibuat oleh perusahaan tersebut. Dalam struktur ini, `どこ` digunakan untuk menanyakan di mana atau oleh siapa N2 dibuat.
+Ketika N1 adalah nama negara dan N2 adalah sebuah produk, artinya N2 dibuat di negara tersebut. Ketika N1 adalah nama perusahaan dan N2 adalah produk, artinya N2 dibuat oleh perusahaan tersebut. Dalam struktur ini, `どこ` digunakan untuk menanyakan di mana atau oleh siapa N2 dibuat.
 
 ### Penjelasan Sederhana (Ayo Kita Bedah!)
 
@@ -149,7 +149,7 @@ Partikel `の` (no) yang serbaguna kini punya jurus baru lagi: jadi label "Made 
 2.  **A:** `その車は どこのですか。` (Sono kuruma wa doko no desu ka? - Mobil itu buatan mana?)
     **B:** `トヨタのです。` (Toyota no desu. - Buatan Toyota.)
 
-### Tips & Info Ekstra (Penting Nih!)
+!!! info "Tips & Info Ekstra" (Penting Nih!)
 
 - Perhatikan di contoh kedua, kata `車` (kuruma) dihilangkan di jawaban (`トヨタのです`). Ini adalah jurus penyingkat `の` yang kita pelajari di Bab 2.
 
@@ -157,9 +157,9 @@ Partikel `の` (no) yang serbaguna kini punya jurus baru lagi: jadi label "Made 
 
 ## 5. Awalan Sopan `お`
 
-### Terjemahan Inti
+### Poin Utama
 
-> Awalan `お` (o) ditambahkan pada sebuah kata yang berkaitan dengan pendengar atau orang ketiga untuk menunjukkan rasa hormat pembicara kepada orang tersebut.
+Awalan `お` (o) ditambahkan pada sebuah kata yang berkaitan dengan pendengar atau orang ketiga untuk menunjukkan rasa hormat pembicara kepada orang tersebut.
 
 ### Penjelasan Sederhana (Ayo Kita Bedah!)
 
@@ -180,7 +180,7 @@ Partikel `の` (no) yang serbaguna kini punya jurus baru lagi: jadi label "Made 
 1.  `お名前は何ですか。` (O-namae wa nan desu ka?) → "Siapa nama Anda?" (Namae → O-namae)
 2.  `お仕事は何ですか。` (O-shigoto wa nan desu ka?) → "Apa pekerjaan Anda?" (Shigoto → O-shigoto)
 
-### Tips & Info Ekstra (Penting Nih!)
+!!! info "Tips & Info Ekstra" (Penting Nih!)
 
 - Sama seperti `さん`, **JANGAN PERNAH** pakai `お` untuk barang milikmu sendiri dalam percakapan formal. Kalau ditanya `お国はどちらですか`, jawabnya `インドネシアです` (Indonesia desu), BUKAN `私のお国は...`.
 - Nanti kamu juga akan ketemu awalan sopan `ご` (go), pasangan dari `お`. Gampangnya: `お` dipakai buat kata-kata asli Jepang, `ご` dipakai buat kata-kata serapan dari China.

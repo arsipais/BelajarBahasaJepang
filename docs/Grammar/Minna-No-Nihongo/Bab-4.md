@@ -12,9 +12,9 @@ Oke, siap? Langsung kita bedah satu per satu semua "jurus" baru di bab ini pake 
 
 ## 1. Menyatakan Waktu: `今 〜時 〜分です`
 
-### Terjemahan Inti
+### Poin Utama
 
-> Untuk menyatakan waktu, akhiran `時` (ji) untuk jam dan `分` (fun/pun) untuk menit digunakan. Angka diletakkan sebelum akhiran ini. Kata tanya `なん` (nan) digunakan dengan akhiran hitungan untuk menanyakan jumlah atau nomor. Oleh karena itu, kata `何時` (nanji) digunakan untuk menanyakan jam.
+Untuk menyatakan waktu, akhiran `時` (ji) untuk jam dan `分` (fun/pun) untuk menit digunakan. Angka diletakkan sebelum akhiran ini. Kata tanya `なん` (nan) digunakan dengan akhiran hitungan untuk menanyakan jumlah atau nomor. Oleh karena itu, kata `何時` (nanji) digunakan untuk menanyakan jam.
 
 ### Penjelasan Sederhana (Ayo Kita Bedah!)
 
@@ -45,7 +45,7 @@ Jadi rumusnya: **Sekarang + Jam + Menit + です.** → `今は 〜時 〜分で
     **B:** `午後４時半です。` (Gogo yoji han desu. - Jam setengah 5 sore / 4:30 PM).
 2.  `会議は 午前９時です。` (Kaigi wa gozen kuji desu.) → "Rapatnya jam 9 pagi."
 
-### Tips & Info Ekstra (Penting Nih!)
+!!! info "Tips & Info Ekstra" (Penting Nih!)
 
 - **Waspada Bacaan Khusus!** Ini bagian yang harus dihafal. Ada beberapa jam dan menit yang cara bacanya beda:
   - **Jam:** Jam 4 (`四時` - **yo**ji), Jam 7 (`七時` - **shichi**ji), Jam 9 (`九時` - **ku**ji).
@@ -56,9 +56,9 @@ Jadi rumusnya: **Sekarang + Jam + Menit + です.** → `今は 〜時 〜分で
 
 ## 2. Akhirnya, Kata Kerja! `〜ます`
 
-### Terjemahan Inti
+### Poin Utama
 
-> Sebuah kata kerja dengan akhiran `ます` (masu) berfungsi sebagai predikat. `ます` membuat kalimat menjadi sopan.
+Sebuah kata kerja dengan akhiran `ます` (masu) berfungsi sebagai predikat. `ます` membuat kalimat menjadi sopan.
 
 ### Penjelasan Sederhana (Ayo Kita Bedah!)
 
@@ -79,7 +79,7 @@ Selamat datang di dunia kata kerja! `〜ます` (masu) ini adalah "Baju Seragam 
 1.  `私は テレビを見ます。` (Watashi wa terebi o mimasu.) → "Saya menonton TV."
 2.  `猫は 魚を食べます。` (Neko wa sakana o tabemasu.) → "Kucing makan ikan."
 
-### Tips & Info Ekstra (Penting Nih!)
+!!! info "Tips & Info Ekstra" (Penting Nih!)
 
 - Semua kata kerja yang akan kamu temui di awal-awal belajar kemungkinan besar akan berakhiran `〜ます`. Ini adalah bentuk paling aman untuk dipakai dalam percakapan. Nanti, kamu akan belajar "bentuk gaul"-nya (bentuk kamus) yang biasa dipakai ngobrol sama teman sebaya.
 
@@ -87,9 +87,9 @@ Selamat datang di dunia kata kerja! `〜ます` (masu) ini adalah "Baju Seragam 
 
 ## 3. 4 Jurus Waktu Kata Kerja (`ます・ません・ました・ませんでした`)
 
-### Terjemahan Inti
+### Poin Utama
 
-> Bentuk `〜ます` digunakan ketika sebuah kalimat menyatakan hal yang biasa terjadi atau sebuah kebenaran. Ia juga digunakan ketika sebuah kalimat menyatakan sesuatu yang akan terjadi di masa depan. Tabel di bawah menunjukkan bentuk non-lampau (sekarang/masa depan) dan bentuk lampau.
+Bentuk `〜ます` digunakan ketika sebuah kalimat menyatakan hal yang biasa terjadi atau sebuah kebenaran. Ia juga digunakan ketika sebuah kalimat menyatakan sesuatu yang akan terjadi di masa depan. Tabel di bawah menunjukkan bentuk non-lampau (sekarang/masa depan) dan bentuk lampau.
 
 ### Penjelasan Sederhana (Ayo Kita Bedah!)
 
@@ -125,9 +125,9 @@ Ini adalah empat jurus utama untuk mengontrol waktu dalam kalimat kerja. Gampang
 
 ## 4. Partikel Waktu Kejadian: `N (waktu) に V`
 
-### Terjemahan Inti
+### Poin Utama
 
-> Ketika sebuah kata kerja menunjukkan suatu aksi atau gerakan sesaat, waktu kapan itu terjadi ditandai dengan partikel `に` (ni). `に` ditambahkan ketika kata benda waktu menggunakan angka (misal: jam, tanggal). `に` juga bisa ditambahkan ke hari dalam seminggu. Ketika kata benda waktu tidak menggunakan angka, `に` tidak ditambahkan.
+Ketika sebuah kata kerja menunjukkan suatu aksi atau gerakan sesaat, waktu kapan itu terjadi ditandai dengan partikel `に` (ni). `に` ditambahkan ketika kata benda waktu menggunakan angka (misal: jam, tanggal). `に` juga bisa ditambahkan ke hari dalam seminggu. Ketika kata benda waktu tidak menggunakan angka, `に` tidak ditambahkan.
 
 ### Penjelasan Sederhana (Ayo Kita Bedah!)
 
@@ -156,9 +156,9 @@ Partikel `に` (ni) ini ibarat **paku** atau **pin lokasi** di Google Maps, tapi
 
 ## 5. Rentang Waktu & Tempat: `〜から 〜まで`
 
-### Terjemahan Inti
+### Poin Utama
 
-> `から` (kara) menunjukkan titik awal waktu atau tempat, dan `まで` (made) menunjukkan titik akhir.
+`から` (kara) menunjukkan titik awal waktu atau tempat, dan `まで` (made) menunjukkan titik akhir.
 
 ### Penjelasan Sederhana (Ayo Kita Bedah!)
 
@@ -189,9 +189,9 @@ Ini adalah pasangan partikel yang super logis. Anggap aja kayak jadwal perjalana
 
 ## 6. 'Dan' untuk Kata Benda: `N と N`
 
-### Terjemahan Inti
+### Poin Utama
 
-> Partikel `と` (to) menghubungkan dua kata benda dalam hubungan yang setara.
+Partikel `と` (to) menghubungkan dua kata benda dalam hubungan yang setara.
 
 ### Penjelasan Sederhana (Ayo Kita Bedah!)
 
@@ -216,9 +216,9 @@ Ini adalah pasangan partikel yang super logis. Anggap aja kayak jadwal perjalana
 
 ## 7. Partikel 'Kan?': `〜ね`
 
-### Terjemahan Inti
+### Poin Utama
 
-> `ね` (ne) ditempelkan di akhir kalimat untuk menambahkan perasaan pada apa yang dikatakan pembicara. `ね` menunjukkan simpati pembicara atau harapannya agar pendengar setuju. Dalam penggunaan kedua, sering digunakan untuk mengkonfirmasi sesuatu.
+`ね` (ne) ditempelkan di akhir kalimat untuk menambahkan perasaan pada apa yang dikatakan pembicara. `ね` menunjukkan simpati pembicara atau harapannya agar pendengar setuju. Dalam penggunaan kedua, sering digunakan untuk mengkonfirmasi sesuatu.
 
 ### Penjelasan Sederhana (Ayo Kita Bedah!)
 
@@ -247,7 +247,7 @@ Ini adalah pasangan partikel yang super logis. Anggap aja kayak jadwal perjalana
 2.  **A:** `明日、テストがあります。` (Ashita, tesuto ga arimasu. - Besok ada ujian.)
     **B:** `そうですか。頑張ってくださいね。` (Sou desu ka. Ganbatte kudasai ne. - Oh gitu ya. Semangat ya!)
 
-### Tips & Info Ekstra (Penting Nih!)
+!!! info "Tips & Info Ekstra" (Penting Nih!)
 
 - `ね` (ne) membuat percakapan jadi lebih "manusiawi" dan nggak kaku kayak robot. Jangan takut pakai ini, terutama saat kamu setuju sama omongan lawan bicara. Ini bikin obrolan jadi lebih nyambung.
 
