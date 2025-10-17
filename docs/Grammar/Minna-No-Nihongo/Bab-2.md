@@ -28,7 +28,7 @@ Ini adalah trio kata tunjuk paling dasar. Biar gampang, bayangin kita punya "zon
   - `です` (desu) → "Tombol sopan".
   - `か` (ka) → "Partikel tanda tanya".
 
-### Contoh Tambahan Biar Makin Nempel
+### Contoh Tambahan
 
 1.  (Sambil pegang pensil) `これは 私の鉛筆です。` (Kore wa watashi no enpitsu desu.) → "Ini adalah pensil saya."
 2.  (Lihat tas di kursi teman) `それは だれの かばんですか。` (Sore wa dare no kaban desu ka?) → "Itu tas siapa?"
@@ -65,13 +65,17 @@ Trio ini adalah "versi upgrade" dari yang tadi. Bedanya tipis tapi krusial: `こ
   - `は` (wa) → Partikel "lampu sorot".
   - `私のです` (watashi no desu) → Artinya "milik saya". (Ini nanti dibahas di poin 5 ya!)
 
-### Contoh Tambahan Biar Makin Nempel
+### Contoh Tambahan
 
 1.  `このゲームは とても面白いです。` (Kono geemu wa totemo omoshiroi desu.) → "Game ini sangat menarik."
 2.  `そのジュースは おいしいですか。` (Sono juusu wa oishii desu ka?) → "Apakah jus itu enak?"
 3.  `あの先生は 数学の先生です。` (Ano sensei wa suugaku no sensei desu.) → "Guru itu (yang di sana) adalah guru matematika."
 
-!!! warning "Jebakan Batman Terbesar Pemula" - Bedain `これ` vs `この`. - `これ` itu kata benda. **Benar:** `これは本です。` (Kore wa hon desu.) - `この` harus nempel sama kata benda. **Salah:** `このは本です。` **Benar:** `この本は...` (Kono hon wa...) - Gampangnya: Setelah `この/その/あの` **PASTI** ada kata benda.
+!!! warning "Jebakan Batman Terbesar Pemula"
+
+    - Bedain `これ` vs `この`. - `これ` itu kata benda. **Benar:** `これは本です。` (Kore wa hon desu.)
+    - `この` harus nempel sama kata benda. **Salah:** `このは本です。` **Benar:** `この本は...` (Kono hon wa...)
+    - Gampangnya: Setelah `この/その/あの` **PASTI** ada kata benda.
 
 ---
 
@@ -127,7 +131,7 @@ Ini rumus buat nanya "A atau B?". Gampang banget, kamu tinggal sebutin pilihan p
 
 Yang paling penting, jawabannya **bukan** `はい` atau `いいえ`, tapi langsung sebutin pilihan yang benar.
 
-### Analisis Contoh Kalimat (Dari Teks Asli)
+### Analisis Contoh Kalimat
 
 - **Kalimat:** `これは「９」ですか、「７」ですか。…「９」です。`
 - **Romaji:** `Kore wa "kyuu" desu ka, "nana" desu ka. ..."kyuu" desu.`
@@ -137,7 +141,7 @@ Yang paling penting, jawabannya **bukan** `はい` atau `いいえ`, tapi langsu
   - `、「７」ですか` → Pilihan 2: "atau apakah ini 7?"
   - Jawabannya langsung to the point: `「９」です。` (Ini 9). Nggak pakai `はい`.
 
-### Contoh Tambahan Biar Makin Nempel
+### Contoh Tambahan
 
 1.  **A:** `明日のテストは 数学ですか、英語ですか。` (Ashita no tesuto wa suugaku desu ka, eigo desu ka? - Tes besok matematika atau bahasa Inggris?)
     **B:** `数学です。` (Suugaku desu. - Matematika.)
