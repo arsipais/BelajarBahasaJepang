@@ -97,112 +97,58 @@
   }
 }
 
-/* ===== Make body text justified (safe for MkDocs Material) ===== */
+/* ===== Membuat Teks Rata Kanan-Kiri (Justify) di Semua Ukuran Layar ===== */
 
-/* Target paragraf, list item, dan blockquote paragraph di konten utama */
+/* 1. Terapkan justify ke elemen teks utama */
 .md-typeset p,
 .md-typeset li,
-.md-typeset blockquote p {
-  text-align: justify;
-  text-justify: inter-word; /* preferensi peramban untuk justification */
-  -webkit-hyphens: auto;
-  -ms-hyphens: auto;
-  hyphens: auto;
-  /* pastikan baris terakhir tidak juga ter-justify (lebih rapi) */
-  text-align-last: left;
-  -moz-text-align-last: left;
-}
-
-/* Juga terapkan pada isi admonition (tapi jangan pada judul/ikon) */
-.md-typeset .admonition .admonition-content,
-.md-typeset .md-admonition__content,
-.md-typeset .admonition .admonition-content p,
+.md-typeset blockquote p,
 .md-typeset .md-admonition__content p {
-  text-align: justify;
-  text-justify: inter-word;
-  -webkit-hyphens: auto;
-  -ms-hyphens: auto;
-  hyphens: auto;
-  text-align-last: left;
-  -moz-text-align-last: left;
+  text-align: justify; /* Membuat teks rata kanan-kiri */
+  hyphens: auto; /* Membantu pemenggalan kata agar spasi tidak terlalu renggang */
 }
 
-/* Jangan justify kode atau inline-code — biarkan tetap monospace dan ter-wrap normal */
+/* 2. PENTING: Pastikan judul, kode, dan tabel tidak ikut justify */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
 .md-typeset pre,
 .md-typeset code,
-.md-typeset kbd,
-.md-typeset .highlight {
-  text-align: left !important;
-  white-space: pre; /* menjaga format kode */
+.md-typeset table {
+  text-align: left !important; /* Paksa tetap rata kiri */
+  hyphens: none !important; /* Matikan pemenggalan kata */
 }
 
-/* Opsional: pada layar kecil, kamu mungkin ingin menonaktifkan justify karena tampilan jadi rapat */
-@media (max-width: 700px) {
-  .md-typeset p,
-  .md-typeset li,
-  .md-typeset blockquote p,
-  .md-typeset .admonition .admonition-content,
-  .md-typeset .md-admonition__content {
-    text-align: left;
-    text-align-last: left;
-  }
-}
+/* ===== Perbaikan untuk wrapping konten di dalam admonition ===== */
 
 /* 1) Pastikan kontainer admonition tidak melebar melewati konten utama */
 .md-typeset .admonition,
-.md-typeset .md-admonition,
-.admonition,
-.md-admonition {
+.md-typeset .md-admonition {
   box-sizing: border-box;
   max-width: 100%;
-  margin: 0.6rem auto; /* center horizontal di dalam konten */
-  padding: 0.7rem 0.9rem;
 }
 
 /* 2) Biarkan isi dalam admonition bisa membungkus (wrap) */
 .md-typeset .admonition .admonition-content,
-.md-typeset .md-admonition__content,
-.admonition .admonition-content {
+.md-typeset .md-admonition__content {
   white-space: normal; /* jangan pakai nowrap */
-  overflow-wrap: anywhere; /* pecah kata bila perlu */
+  overflow-wrap: break-word; /* pecah kata bila perlu */
   word-break: break-word;
-  hyphens: auto;
 }
 
 /* 3) Inline code (chips) sering pakai white-space: nowrap -> izinkan wrap */
 .md-typeset code,
-.md-typeset kbd,
-.md-typeset tt,
 .md-typeset .admonition code,
 .md-typeset .md-admonition code {
-  display: inline; /* hindari inline-block yang memaksa lebar */
   white-space: pre-wrap; /* izinkan pembungkusan */
-  overflow-wrap: anywhere;
+  overflow-wrap: break-word;
   word-break: break-word;
-  background-clip: padding-box;
-  padding: 0.06rem 0.26rem; /* kecilkan padding bila terlalu lebar */
-  border-radius: 4px;
 }
 
 /* 4) Tetap jaga kode blok (pre) agar tidak rusak — beri horizontal scroll bila lebar */
 .md-typeset pre,
-.md-typeset .highlight,
-.md-typeset code[class*="language-"] {
+.md-typeset .highlight {
   white-space: pre; /* jangan wrap kode blok */
-  overflow: auto; /* scroll horizontal bila perlu */
-}
-
-/* 5) Jika ada elemen inline yang masih dipaksa lebar oleh styling tema,
-   override dengan lebih spesifik (gunakan jika masih bermasalah) */
-main .md-typeset .admonition code,
-main .md-typeset .md-admonition code {
-  display: inline !important;
-  white-space: pre-wrap !important;
-  overflow-wrap: anywhere !important;
-}
-
-.md-typeset ul ul,
-.md-typeset ol ol {
-  list-style-type: disc; /* gunakan disc untuk nested unordered list */
-  margin-left: 1.25rem; /* sesuaikan indent */
+  overflow-x: auto; /* scroll horizontal bila perlu */
 }

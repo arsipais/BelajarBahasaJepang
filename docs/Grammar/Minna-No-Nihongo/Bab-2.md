@@ -36,7 +36,7 @@ Ini adalah trio kata tunjuk paling dasar. Biar gampang, bayangin kita punya "zon
 
 !!! info "Tips & Info Ekstra"
 
-Ingat, `これ`, `それ`, `あれ` itu adalah **kata benda**. Artinya, mereka bisa berdiri sendiri sebagai subjek atau objek. `これは本です。` (Ini adalah buku.) Kalimat ini lengkap dan benar. Ini bakal jadi penting buat ngebedain sama poin berikutnya.
+    Ingat, `これ`, `それ`, `あれ` itu adalah **kata benda**. Artinya, mereka bisa berdiri sendiri sebagai subjek atau objek. `これは本です。` (Ini adalah buku.) Kalimat ini lengkap dan benar. Ini bakal jadi penting buat ngebedain sama poin berikutnya.
 
 ---
 
@@ -71,11 +71,7 @@ Trio ini adalah "versi upgrade" dari yang tadi. Bedanya tipis tapi krusial: `こ
 2.  `そのジュースは おいしいですか。` (Sono juusu wa oishii desu ka?) → "Apakah jus itu enak?"
 3.  `あの先生は 数学の先生です。` (Ano sensei wa suugaku no sensei desu.) → "Guru itu (yang di sana) adalah guru matematika."
 
-!!! warning "Jebakan Batman Terbesar Pemula"
-- Bedain `これ` vs `この`.
-  - `これ` itu kata benda. **Benar:** `これは本です。` (Kore wa hon desu.)
-  - `この` harus nempel sama kata benda. **Salah:** `このは本です。` **Benar:** `この本は...` (Kono hon wa...)
-- Gampangnya: Setelah `この/その/あの` **PASTI** ada kata benda.
+!!! warning "Jebakan Batman Terbesar Pemula" - Bedain `これ` vs `この`. - `これ` itu kata benda. **Benar:** `これは本です。` (Kore wa hon desu.) - `この` harus nempel sama kata benda. **Salah:** `このは本です。` **Benar:** `この本は...` (Kono hon wa...) - Gampangnya: Setelah `この/その/あの` **PASTI** ada kata benda.
 
 ---
 
@@ -111,9 +107,9 @@ Ini adalah cara cepat dan sopan buat bilang "Betul" atau "Bukan".
 3.  **A:** `宿題は 今日ですか。` (Shukudai wa kyou desu ka? - PR-nya hari ini?)
     **B:** `いいえ、違います。明日です。` (Iie, chigaimasu. Ashita desu. - Bukan, salah. Besok.)
 
-!!! info "Tips & Info Ekstra" 
+!!! info "Tips & Info Ekstra"
 
-`そうです` adalah jawaban super praktis, tapi **hanya** untuk pertanyaan "iya/tidak". Kalau pertanyaannya pakai kata tanya (siapa/apa/kapan), kamu nggak bisa jawab pakai `そうです`.
+    `そうです` adalah jawaban super praktis, tapi **hanya** untuk pertanyaan "iya/tidak". Kalau pertanyaannya pakai kata tanya (siapa/apa/kapan), kamu nggak bisa jawab pakai `そうです`.
 
 ---
 
@@ -150,7 +146,7 @@ Yang paling penting, jawabannya **bukan** `はい` atau `いいえ`, tapi langsu
 
 !!! info "Tips & Info Ekstra"
 
-Kalau kamu ditanya pakai format ini dan kamu jawab `はい`, orang Jepang bakal bingung. "Iya... iya apa? 9 atau 7?" Jadi, selalu jawab dengan salah satu pilihannya.
+    Kalau kamu ditanya pakai format ini dan kamu jawab `はい`, orang Jepang bakal bingung. "Iya... iya apa? 9 atau 7?" Jadi, selalu jawab dengan salah satu pilihannya.
 
 ---
 
@@ -190,7 +186,7 @@ Partikel `の` yang tadinya kita kenal sebagai "lem kepemilikan" ternyata punya 
 
 !!! info "Tips & Info Ekstra"
 
-Aturan "penyingkatan" ini super umum. Kamu bakal sering banget dengar kalimat yang diakhiri dengan `〜のです`. Kuncinya, lihat konteks kalimat sebelumnya untuk tahu benda apa yang lagi diomongin.
+    Aturan "penyingkatan" ini super umum. Kamu bakal sering banget dengar kalimat yang diakhiri dengan `〜のです`. Kuncinya, lihat konteks kalimat sebelumnya untuk tahu benda apa yang lagi diomongin.
 
 ---
 
@@ -231,7 +227,7 @@ Nah lho, mirip sama poin 3, tapi beda! `そうですか` (sou desu ka) ini bukan
 
 !!! info "Tips & Info Ekstra"
 
-- **Intonasi adalah Raja!**
-  - `そうですか？` (intonasi **naik** ↗) = Pertanyaan. "Benarkah begitu?"
-  - `そうですか。` (intonasi **turun** ↘) = Reaksi. "Oh, begitu ya."
-- Ini adalah salah satu frasa paling berguna dalam percakapan sehari-hari di Jepang. Menguasainya bikin kamu kedengeran lebih alami!
+    - **Intonasi adalah Raja!**
+      - `そうですか？` (intonasi **naik** ↗) = Pertanyaan. "Benarkah begitu?"
+      - `そうですか。` (intonasi **turun** ↘) = Reaksi. "Oh, begitu ya."
+    - Ini adalah salah satu frasa paling berguna dalam percakapan sehari-hari di Jepang. Menguasainya bikin kamu kedengeran lebih alami!

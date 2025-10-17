@@ -39,7 +39,7 @@ theme:
     # - navigation.sections
     #- navigation.expand
     # - navigation.path
-    # - navigation.footer
+    - navigation.footer
     # - navigation.instant
     # - navigation.instant.prefetch
     # - navigation.instant.progress
