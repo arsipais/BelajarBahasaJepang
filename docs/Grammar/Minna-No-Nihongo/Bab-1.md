@@ -66,6 +66,7 @@ Kalau tadi kita belajar bilang "iya", sekarang kita belajar bilang "bukan". Cara
 - **Romaji:** `Santosu-san wa gakusei ja arimasen.`
 - **Terjemahan:** Tuan Santos bukan seorang pelajar.
 - **Pecah Kalimat:**
+
   - `サントスさん` (Santosu-san) → **Topik** kita.
   - `は` (wa) → Partikel "lampu sorot".
   - `学生` (gakusei) → Kata benda "pelajar".

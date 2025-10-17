@@ -200,3 +200,9 @@ main .md-typeset .md-admonition code {
   white-space: pre-wrap !important;
   overflow-wrap: anywhere !important;
 }
+
+.md-typeset ul ul,
+.md-typeset ol ol {
+  list-style-type: disc; /* gunakan disc untuk nested unordered list */
+  margin-left: 1.25rem; /* sesuaikan indent */
+}

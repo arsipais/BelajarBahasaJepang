@@ -2,7 +2,7 @@
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter",
   "monospaceFontFamily": "JetBrains Mono",
-  "baseFontSize": 17,
+  "baseFontSize": 30,
   "baseFontSizeAction": true,
   "cssTheme": "Minimal"
 }
