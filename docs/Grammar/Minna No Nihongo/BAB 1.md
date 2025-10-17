@@ -1,16 +1,9 @@
-AKHIRNYA, Cahaya! Ini dia materi yang paling pas buat format andalan kita: penjelasan grammar! Mantap banget, ini langsung dari Bab 1 Minna no Nihongo, kan? Ini adalah resep-resep kalimat paling dasar yang bakal kamu pakai terus-terusan.
+### **Pola Kalimat Paling Dasar: `N は N です` (N adalah N)**
 
-Oke, karena ada beberapa poin grammar di sini, aku bakal bedah satu per satu sesuai urutan di buku dan pakai format yang kamu mau. Siap-siap, kita mulai dari yang paling pertama!
+Partikel `は` (wa) menunjukkan bahwa kata sebelumnya adalah topik kalimat. Kamu pilih sebuah kata benda yang mau kamu omongin, terus tambahin `は` buat nandain "ini lho topiknya", lalu kasih pernyataan tentang topik itu. `です` (desu) dipakai dengan kata benda untuk jadi penutup kalimat, yang nunjukkin penilaian atau pernyataan. `です` juga nunjukkin rasa sopan ke lawan bicara.
 
----
-
-### **1. Judul Materi: Pola Kalimat Paling Dasar: `N は N です` (N adalah N)**
-
-- **Terjemahan Inti:**
-  Partikel `は` (wa) menunjukkan bahwa kata sebelumnya adalah topik kalimat. Kamu pilih sebuah kata benda yang mau kamu omongin, terus tambahin `は` buat nandain "ini lho topiknya", lalu kasih pernyataan tentang topik itu. `です` (desu) dipakai dengan kata benda untuk jadi penutup kalimat, yang nunjukkin penilaian atau pernyataan. `です` juga nunjukkin rasa sopan ke lawan bicara.
-
-- **Penjelasan Sederhana (Ayo Kita Bedah!):**
-  Ini adalah rumus paling sakral di bahasa Jepang, kayak `y = mx + c` di matematika, hehe. Gampangnya gini:
+- **Penjelasan Sederhana:**
+  Ini adalah rumus paling sakral di bahasa Jepang. Gampangnya gini:
 
   - **N1 (Kata Benda 1):** Ini adalah **TOPIK** yang mau kamu omongin. Siapa atau apa yang jadi jagoan utama di kalimatmu.
   - **は (wa):** Anggap partikel ini kayak **lampu sorot**. Begitu kamu pasang `は` setelah sebuah kata, _jreng!_ semua perhatian langsung tertuju ke kata itu. Partikel ini bilang, "Oke semuanya, kita lagi ngomongin dia ya!"
@@ -21,7 +14,7 @@ Oke, karena ada beberapa poin grammar di sini, aku bakal bedah satu per satu ses
 
 - **Analisis Contoh Kalimat (Dari Teks Asli):**
 
-  - **Kalimat:** `① わたしは マイク・ミラーです。`
+  - **Kalimat:** `わたしは マイク・ミラーです。`
   - **Romaji:** `Watashi wa Maiku Miraa desu.`
   - **Terjemahan:** Saya adalah Mike Miller.
   - **Pecah Kalimat:**

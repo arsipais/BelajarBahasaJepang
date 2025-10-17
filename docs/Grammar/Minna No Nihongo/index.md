@@ -4,7 +4,7 @@ Ini adalah rangkuman dari semua poin tata bahasa yang telah dijelaskan, disusun 
 
 ---
 
-## 📖 [Bab 1: Perkenalan Diri](BAB%201)
+## [📖 BAB 1: Perkenalan Diri](BAB%201)
 
 1.  **Pola Kalimat Paling Dasar:** `N は N です` (N adalah N)
 2.  **Bentuk Negatif:** `N は N じゃありません` (N bukan N)
@@ -13,7 +13,7 @@ Ini adalah rangkuman dari semua poin tata bahasa yang telah dijelaskan, disusun 
 5.  **Kata Sambung Kepemilikan:** `N1 の N2`
 6.  **Panggilan Sopan:** `〜さん`
 
-## 📖 Bab 2: Kata Tunjuk Benda
+## [📖 BAB 2: Kata Tunjuk Benda](BAB%202)
 
 1.  **Kata Tunjuk Benda:** `これ・それ・あれ` (Ini / Itu / Itu yang Jauh)
 2.  **Kata Tunjuk Plus Benda:** `このN・そのN・あのN`
@@ -22,7 +22,7 @@ Ini adalah rangkuman dari semua poin tata bahasa yang telah dijelaskan, disusun 
 5.  **Jurus Serbaguna `の` (Lanjutan: 'Tentang' & 'Milikku')**
 6.  **Frasa 'Oh, Gitu ya!':** `そうですか`
 
-## 📖 Bab 3: Lokasi & Asal
+## [📖 BAB 3: Lokasi & Asal](BAB%203)
 
 1.  **Kata Tunjuk Tempat:** `ここ・そこ・あそこ` & Versi Sopannya
 2.  **Menyatakan Lokasi:** `N は (Tempat) です`
@@ -30,7 +30,7 @@ Ini adalah rangkuman dari semua poin tata bahasa yang telah dijelaskan, disusun 
 4.  **`の` Lanjutan: Menanyakan Asal Produk**
 5.  **Awalan Sopan:** `お`
 
-## 📖 Bab 4: Kegiatan Sehari-hari & Waktu
+## [📖 BAB 4: Kegiatan Sehari-hari & Waktu](BAB%204)
 
 1.  **Menyatakan Waktu:** Jam (`時`) dan Menit (`分`)
 2.  **Kata Kerja Bentuk Sopan:** `〜ます`
@@ -40,7 +40,7 @@ Ini adalah rangkuman dari semua poin tata bahasa yang telah dijelaskan, disusun 
 6.  **'Dan' untuk Kata Benda:** `N と N`
 7.  **Partikel 'Kan?':** `〜ね`
 
-## 📖 Bab 5: Pergi, Datang, Pulang
+## [📖 BAB 5: Pergi, Datang, Pulang](BAB%205)
 
 1.  **Trio Kata Kerja Gerakan & Partikel Arah:** `へ (e)`
 2.  **Jurus Negasi Total:** `どこ[へ]も 行きません`
