@@ -1,0 +1,154 @@
+:root,
+[data-md-color-scheme="default"] {
+  --md-default-bg-color: #f7f6eb;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #121212;
+}
+
+/* ---------- Base content sizing ---------- */
+/* atur ukuran teks utama (sesuaikan 1rem => 16px default) */
+.md-typeset {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+/* ---------- Headings / "display" text (yang kelihatan sangat besar) ---------- */
+.md-typeset h1 {
+  font-size: 2rem;
+  line-height: 1.1;
+  margin: 1rem 0 0.5rem;
+}
+.md-typeset h2 {
+  font-size: 1.6rem;
+  margin: 0.9rem 0 0.45rem;
+}
+.md-typeset h3 {
+  font-size: 1.25rem;
+  margin: 0.75rem 0 0.4rem;
+}
+
+/* beberapa tema/material menggunakan kelas display / hero — override juga */
+.md-typeset .md-display-1,
+.md-typeset .md-display-2,
+.md-typeset .md-heading--display,
+.md-typeset .display,
+.display-1 {
+  font-size: 2rem !important;
+}
+
+/* ---------- Admonitions (kotak informasi/peringatan) ---------- */
+/* general admonition container */
+.md-typeset .admonition,
+.md-typeset .md-admonition {
+  font-size: 0.95rem; /* ukuran teks dalam admonition */
+  padding: 0.7rem 0.9rem; /* lebih ringkas */
+  border-radius: 8px;
+  margin: 0.8rem 0;
+  box-sizing: border-box;
+}
+
+/* judul / header admonition */
+.md-typeset .admonition .admonition-title,
+.md-typeset .md-admonition__header {
+  font-weight: 600;
+  font-size: 0.95rem;
+  margin-bottom: 0.25rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+/* konten di dalam admonition (paragraf, list) */
+.md-typeset .admonition > p,
+.md-typeset .md-admonition__content,
+.md-typeset .admonition .admonition-content {
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+/* kode di dalam admonition (jika ada) */
+.md-typeset .admonition code,
+.md-typeset .md-admonition code {
+  font-size: 0.85rem;
+}
+
+/* ikon admonition — sesuaikan ukurannya agar tidak terlalu besar */
+.md-typeset .admonition .admonition-title::before,
+.md-typeset .md-admonition__icon {
+  font-size: 1.05rem;
+  line-height: 1;
+  vertical-align: middle;
+}
+
+/* ---------- Responsif: kecilkan lagi pada layar kecil ---------- */
+@media (max-width: 700px) {
+  .md-typeset {
+    font-size: 0.95rem;
+  }
+  .md-typeset h1 {
+    font-size: 1.6rem;
+  }
+  .md-typeset .admonition,
+  .md-typeset .md-admonition {
+    font-size: 0.92rem;
+    padding: 0.6rem 0.75rem;
+  }
+}
+
+/* ===== Membuat Teks Rata Kanan-Kiri (Justify) di Semua Ukuran Layar ===== */
+
+/* 1. Terapkan justify ke elemen teks utama */
+.md-typeset p,
+.md-typeset li,
+.md-typeset blockquote p,
+.md-typeset .md-admonition__content p {
+  text-align: justify; /* Membuat teks rata kanan-kiri */
+  hyphens: auto; /* Membantu pemenggalan kata agar spasi tidak terlalu renggang */
+}
+
+/* 2. PENTING: Pastikan judul, kode, dan tabel tidak ikut justify */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset pre,
+.md-typeset code,
+.md-typeset table {
+  text-align: left !important; /* Paksa tetap rata kiri */
+  hyphens: none !important; /* Matikan pemenggalan kata */
+}
+
+/* ===== Perbaikan untuk wrapping konten di dalam admonition ===== */
+
+/* 1) Pastikan kontainer admonition tidak melebar melewati konten utama */
+.md-typeset .admonition,
+.md-typeset .md-admonition {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+/* 2) Biarkan isi dalam admonition bisa membungkus (wrap) */
+.md-typeset .admonition .admonition-content,
+.md-typeset .md-admonition__content {
+  white-space: normal; /* jangan pakai nowrap */
+  overflow-wrap: break-word; /* pecah kata bila perlu */
+  word-break: break-word;
+}
+
+/* 3) Inline code (chips) sering pakai white-space: nowrap -> izinkan wrap */
+.md-typeset code,
+.md-typeset .admonition code,
+.md-typeset .md-admonition code {
+  white-space: pre-wrap; /* izinkan pembungkusan */
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+/* 4) Tetap jaga kode blok (pre) agar tidak rusak — beri horizontal scroll bila lebar */
+.md-typeset pre,
+.md-typeset .highlight {
+  white-space: pre; /* jangan wrap kode blok */
+  overflow-x: auto; /* scroll horizontal bila perlu */
+}
